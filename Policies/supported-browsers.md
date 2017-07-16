@@ -16,7 +16,7 @@ We do our best to support Firefox's latest [Extended Support Release](https://ww
 
 ### Internet Explorer on Windows XP
 
-Because Windows XP is not supported, you'll receive an error when you try to load {{ site.data.variables.product.product_name }} in Internet Explorer. For more information, see "[Improving GitHub's SSL setup](https://github.com/blog/1937-improving-github-s-ssl-setup)" on the GitHub Blog.
+Because Windows XP is not supported, you may receive an error when you try to load {{ site.data.variables.product.product_name }} in Internet Explorer.
 
 ### Internet Explorer Outdated Browser Error
 

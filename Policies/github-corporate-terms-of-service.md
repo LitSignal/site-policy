@@ -2,6 +2,8 @@
 title: GitHub Corporate Terms of Service
 ---
 
+Not applicable
+
 Thank you for choosing GitHub for your company's business needs. Please read our Corporate Terms of Service agreement carefully before accessing or using GitHub. Because it is such an important contract between us and our customers, we have tried to make it as clear as possible. For your convenience, we have presented these terms in a short non-binding summary followed by the full legal terms.
 
 ### Summary

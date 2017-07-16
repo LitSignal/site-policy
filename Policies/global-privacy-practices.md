@@ -4,6 +4,8 @@ redirect_from:
  - /eu-safe-harbor/
 ---
 
+Not applicable
+
 ### Privacy Shield Framework
 
 For those located in the European Union, we have applied for certification for the [EU–US Privacy Shield](https://www.privacyshield.gov/) on August 26, 2016, and received our certification on January 26, 2017. You may view it on the [Privacy Shield List](https://www.privacyshield.gov/participant?id=a2zt000000001K2AAI).

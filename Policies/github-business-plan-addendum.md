@@ -2,6 +2,8 @@
 title: GitHub Business Plan Addendum
 ---
 
+Not applicable
+
 ### Business Plan Addendum
 
 These are the additional terms for GitHub's Business plan ("Business Plan Terms"). Any capitalized terms not defined in these Business Plan Terms will be defined in the [Terms of Service](/articles/github-terms-of-service/) or the [Corporate Terms of Service](/articles/github-corporate-terms-of-service/). By agreeing to these Business Plan Terms, you also agree to the Terms of Service, as determined by the type of account you have.

@@ -5,6 +5,8 @@ redirect_from:
   - "/articles/proposed-amendment-to-github-terms-of-service-applicable-to-u-s-federal-government-users/"
 ---
 
+Not applicable
+
 {{#tip}}
 
 This Amendment to GitHub's [Terms of Service](/articles/github-terms-of-service) applies only to users that are using GitHub on behalf of a United States federal government agency. If you are not using GitHub on behalf of a U.S. federal government agency, the standard [GitHub Terms of Service](/articles/github-terms-of-service) applies to you.

@@ -3,9 +3,9 @@ title: GitHub Community Guidelines
 redirect_from: /community-guidelines/
 ---
 
-Millions of developers host millions of projects on GitHub — both open and closed source — and we're honored to play a part in enabling collaboration across the community every day. Together, we all have an exciting opportunity and responsibility to make this a community we can be proud of.
+Many users host projects on Litsignal — both open and closed source — and we're honored to play a part in enabling collaboration across the community every day. Together, we all have an exciting opportunity and responsibility to make this a community we can be proud of.
 
-GitHub users worldwide bring wildly different perspectives, ideas, and experiences, and range from people who created their first "Hello World" project last week to the most well-known software developers in the world. We are committed to making GitHub a welcoming environment for all the different voices and perspectives in our community, while maintaining a space where people are free to express themselves.
+GitHub users worldwide bring wildly different perspectives, ideas, and experiences, and range from people who created their first module last week to the most well-known educators in the world. We are committed to making GitHub a welcoming environment for all the different voices and perspectives in our community, while maintaining a space where people are free to express themselves.
 
 We rely on our community members to communicate expectations, [moderate](#what-if-something-or-someone-offends-you) their projects, and [report](https://github.com/contact/report-abuse) abusive behavior or content. We do not actively seek out content to moderate. By outlining what we expect to see within our community, we hope to help you understand how best to collaborate on GitHub, and what type of actions or content may violate our [Terms of Service](#legal-notices). We will investigate any abuse reports and may moderate public content on our site that we determine to be in violation of our Terms of Service.
 
@@ -26,11 +26,11 @@ We want people to work better together. Although we maintain the site, this is a
 
 We rely on the community to let us know when an issue needs to be addressed. We do not actively monitor the site for offensive content. If you run into something or someone on the site that you find objectionable, here are some tools GitHub provides to help you take action immediately:
 
-* **Communicate expectations** - If you participate in a community that has not set their own, community-specific guidelines, encourage them to do so either in the README or [CONTRIBUTING file](/articles/setting-guidelines-for-repository-contributors/), or in [a dedicated code of conduct](/articles/adding-a-code-of-conduct-to-your-project/), by submitting a pull request.
+* **Communicate expectations** - If you participate in a community that has not set their own, community-specific guidelines, encourage them to do so in the README.
 
-* **Moderate Comments** - If you have [write-access privileges](/articles/repository-permission-levels-for-an-organization/) for a repository, you can [edit](/articles/editing-a-comment/) or [delete](/articles/deleting-a-comment/) anyone's comments on commits, pull requests, and issues.
+* **Moderate Comments** - If you have [write-access privileges](/articles/repository-permission-levels-for-an-organization/) for a module, you can [edit](/articles/editing-a-comment/) or [delete](/articles/deleting-a-comment/) anyone's comments on revisions and issues.
 
-* **Lock Conversations**  - If a discussion in an issue or pull request gets out of control, you can [lock the conversation](/articles/locking-conversations/).
+* **Lock Conversations**  - If a discussion in an issue or revision gets out of control, you can [lock the conversation](/articles/locking-conversations/).
 
 * **Block Users**  - If you encounter a user who continues to demonstrate poor behavior, you can [block the user from your personal account](/articles/blocking-a-user-from-your-personal-account/) or [block the user from your organization](/articles/blocking-a-user-from-your-organization/).
 
@@ -40,7 +40,7 @@ Of course, you can always contact us to [**Report Abuse**](https://github.com/co
 
 We are committed to maintaining a community where users are free to express themselves and challenge one another's ideas, both technical and otherwise. Such discussions, however, are unlikely to foster fruitful dialog when ideas are silenced because community members are being shouted down or are afraid to speak up. That means you should be respectful and civil at all times, and refrain from attacking others on the basis of who they are. We do not tolerate behavior that crosses the line into the following:
 
-* **Threats of violence** - You may not threaten violence towards others or use the site to organize, promote, or incite acts of real-world violence or terrorism. Think carefully about the words you use, the images you post, and even the software you write, and how they may be interpreted by others. Even if you mean something as a joke, it might not be received that way. If you think that someone else *might* interpret the content you post as a threat, or as promoting violence or terrorism, stop. Don't post it on GitHub. In extraordinary cases, we may report threats of violence to law enforcement if we think there may be a genuine risk of physical harm or a threat to public safety.
+* **Threats of violence** - You may not threaten violence towards others or use the site to organize, promote, or incite acts of real-world violence or terrorism. Think carefully about the words you use, the images you post, and even the modules you contribute, and how they may be interpreted by others. Even if you mean something as a joke, it might not be received that way. If you think that someone else *might* interpret the content you post as a threat, or as promoting violence or terrorism, stop. Don't post it on GitHub. In extraordinary cases, we may report threats of violence to law enforcement if we think there may be a genuine risk of physical harm or a threat to public safety.
 
 * **Hate speech and discrimination** - While it is not forbidden to broach topics such as age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation, we do not tolerate speech that attacks a person or group of people on the basis of who they are. Just realize that when approached in an aggressive or insulting manner, these (and other) sensitive topics can make others feel unwelcome, or perhaps even unsafe. While there's always the potential for misunderstandings, we expect our community members to remain respectful and civil when discussing sensitive topics.
 
@@ -52,7 +52,7 @@ We are committed to maintaining a community where users are free to express them
 
 * **Sexually obscene content** - Basically, don't post pornography. This does not mean that all nudity or sexual content is prohibited. We recognize that sexuality is a part of life and non-pornographic sexual content may be a part of your project, or may be presented for educational or artistic purposes. If you have any questions or concerns about something you want to post, [feel free to reach out and ask](https://github.com/contact) beforehand.
 
-* **Active malware or exploits** - Being part of a community includes not taking advantage of other members of the community. We do not allow anyone to use our platform for exploit delivery, such as using GitHub as a means to deliver malicious executables, or as attack infrastructure, for example by organizing denial of service attacks or managing command and control servers. Note, however, that we do not prohibit the posting of source code which could be used to develop malware or exploits, as the publication and distribution of such source code has educational value and provides a net benefit to the security community.
+* **Active malware or exploits** - Being part of a community includes not taking advantage of other members of the community. We do not allow anyone to use our platform for exploit delivery, such as using GitHub as a means to deliver malicious executables, or as attack infrastructure, for example by organizing denial of service attacks or managing command and control servers.
 
 
 ### What happens if someone breaks the rules?
