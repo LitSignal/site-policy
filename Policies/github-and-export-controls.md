@@ -8,4 +8,4 @@ Although we've provided the following information below for your convenience, it
 
 ### Litsignal.com
 
-Litsignal.com, the cloud-hosted service offering available at [github.com](https://github.com) has not been audited for compliance with ITAR or other export controls, and does not currently offer the ability to restrict module access by country.
+Litsignal.com, the cloud-hosted service offering available at [litsignal.com](https://litsignal.com) has not been audited for compliance with ITAR or other export controls, and does not currently offer the ability to restrict module access by country.

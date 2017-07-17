@@ -7,7 +7,7 @@ Many users host projects on Litsignal — both open and closed source — and we
 
 Litsignal users worldwide bring wildly different perspectives, ideas, and experiences, and range from people who created their first module last week to the most well-known educators in the world. We are committed to making Litsignal a welcoming environment for all the different voices and perspectives in our community, while maintaining a space where people are free to express themselves.
 
-We rely on our community members to communicate expectations, [moderate](#what-if-something-or-someone-offends-you) their projects, and [report](https://github.com/contact/report-abuse) abusive behavior or content. We do not actively seek out content to moderate. By outlining what we expect to see within our community, we hope to help you understand how best to collaborate on Litsignal, and what type of actions or content may violate our [Terms of Service](#legal-notices). We will investigate any abuse reports and may moderate public content on our site that we determine to be in violation of our Terms of Service.
+We rely on our community members to communicate expectations, [moderate](#what-if-something-or-someone-offends-you) their projects, and [report](https://litsignal.com/contact/report-abuse) abusive behavior or content. We do not actively seek out content to moderate. By outlining what we expect to see within our community, we hope to help you understand how best to collaborate on Litsignal, and what type of actions or content may violate our [Terms of Service](#legal-notices). We will investigate any abuse reports and may moderate public content on our site that we determine to be in violation of our Terms of Service.
 
 ### Building a strong community
 
@@ -34,7 +34,7 @@ We rely on the community to let us know when an issue needs to be addressed. We 
 
 * **Block Users**  - If you encounter a user who continues to demonstrate poor behavior, you can [block the user from your personal account](/articles/blocking-a-user-from-your-personal-account/) or [block the user from your organization](/articles/blocking-a-user-from-your-organization/).
 
-Of course, you can always contact us to [**Report Abuse**](https://github.com/contact/report-abuse) if you need more help dealing with a situation.
+Of course, you can always contact us to [**Report Abuse**](https://litsignal.com/contact/report-abuse) if you need more help dealing with a situation.
 
 ### What is not allowed?
 
@@ -50,7 +50,7 @@ We are committed to maintaining a community where users are free to express them
 
 * **Doxxing and invasion of privacy** - Don't post other people's personal information, such as phone numbers, private email addresses, physical addresses, credit card numbers, Social Security/National Identity numbers, or passwords. Depending on the context, such as in the case of intimidation or harassment, we may consider other information, such as photos or videos that were taken or distributed without the subject's consent, to be an invasion of privacy, especially when such material presents a safety risk to the subject.
 
-* **Sexually obscene content** - Basically, don't post pornography. This does not mean that all nudity or sexual content is prohibited. We recognize that sexuality is a part of life and non-pornographic sexual content may be a part of your project, or may be presented for educational or artistic purposes. If you have any questions or concerns about something you want to post, [feel free to reach out and ask](https://github.com/contact) beforehand.
+* **Sexually obscene content** - Basically, don't post pornography. This does not mean that all nudity or sexual content is prohibited. We recognize that sexuality is a part of life and non-pornographic sexual content may be a part of your project, or may be presented for educational or artistic purposes. If you have any questions or concerns about something you want to post, [feel free to reach out and ask](https://litsignal.com/contact) beforehand.
 
 * **Active malware or exploits** - Being part of a community includes not taking advantage of other members of the community. We do not allow anyone to use our platform for exploit delivery, such as using Litsignal as a means to deliver malicious executables, or as attack infrastructure, for example by organizing denial of service attacks or managing command and control servers.
 
@@ -72,4 +72,4 @@ Actions we may take in response to an abuse report include but are not limited t
 
 We dedicate these Community Guidelines to the public domain for anyone to use, reuse, adapt, or whatever, under the terms of [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/).
 
-These are only guidelines; they do not modify our [Terms of Service](/articles/github-terms-of-service/) and are not intended to be a complete list. Litsignal retains full discretion under the [Terms of Service](/articles/github-terms-of-service/#c-acceptable-use) to remove any content or terminate any accounts for activity that violates our Terms on Acceptable Use. These guidelines describe when we will exercise that discretion.
+These are only guidelines; they do not modify our [Terms of Service](/articles/litsignal-terms-of-service/) and are not intended to be a complete list. Litsignal retains full discretion under the [Terms of Service](/articles/litsignal-terms-of-service/#c-acceptable-use) to remove any content or terminate any accounts for activity that violates our Terms on Acceptable Use. These guidelines describe when we will exercise that discretion.

@@ -19,7 +19,7 @@ That's easy: just be responsible. Follow our [Code of Conduct](CODE_OF_CONDUCT.m
 
 #### There are a few things you should _not_ post in this respository:
 
-- Please don't post legal complaints or ask for technical support. We may not respond to issues promptly. If you need help, [contact Support](https://github.com/contact) and they'll get you an answer.
+- Please don't post legal complaints or ask for technical support. We may not respond to issues promptly. If you need help, [contact Support](https://litsignal.com/contact) and they'll get you an answer.
 -	Please avoid hypotheticals. We can't give you legal advice, which means we often can't tell you if a hypothetical situation would or wouldn't be a violation of our policies. We also can't tell you what you should or shouldn't do. We can tell you how we interpret our policies.
 - Please don't give other users legal advice, to avoid confusion.
 
@@ -29,7 +29,7 @@ We have a semi-annual review and modification process for the policies in this r
 
 #### What's the process? 
 
-Policies will be open for discussion and feedback throughout the year. You can expect that someone from Litsignal's legal department will see your feedback, but we might not respond immediately. If you need an immediate answer on a legal matter, [contact Support](https://github.com/contact).
+Policies will be open for discussion and feedback throughout the year. You can expect that someone from Litsignal's legal department will see your feedback, but we might not respond immediately. If you need an immediate answer on a legal matter, [contact Support](https://litsignal.com/contact).
 
 Every six months, we'll do thorough review of the feedback we have received. If changes are not needed, great! We'll let you know that we're not putting out an update, and we'll close any issues or PRs that are still hanging around. 
 

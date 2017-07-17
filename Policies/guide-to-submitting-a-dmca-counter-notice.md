@@ -29,7 +29,7 @@ Sometimes a takedown notice might allege infringement in a way that seems odd or
 We require you to fill out all fields of a counter notice completely, because a counter notice is a legal statement — not just to us, but to the complaining party. As we mentioned above, if the complaining party wishes to keep the content disabled after receiving a counter notice, they will need to initiate a legal action seeking a court order to restrain you from engaging in infringing activity relating to the content on Litsignal. In other words, you might get sued (and you consent to that in the counter notice).
 
 ***Your Counter Notice Will Be Published.***
-As noted in our [DMCA Takedown Policy](/articles/dmca-takedown-policy#d-transparency), **after redacting personal information,** we publish all complete and actionable counter notices at <https://github.com/github/dmca>. Please also note that, although we will only publicly publish redacted notices, we may provide a complete unredacted copy of any notices we receive directly to any party whose rights would be affected by it. If you are concerned about your privacy, you may have a lawyer or other legal representative file the counter notice on your behalf.
+As noted in our [DMCA Takedown Policy](/articles/dmca-takedown-policy#d-transparency), **after redacting personal information,** we publish all complete and actionable counter notices at <https://litsignal.com/litsignal/dmca>. Please also note that, although we will only publicly publish redacted notices, we may provide a complete unredacted copy of any notices we receive directly to any party whose rights would be affected by it. If you are concerned about your privacy, you may have a lawyer or other legal representative file the counter notice on your behalf.
 
 ***Litsignal Isn't The Judge.***
 Litsignal exercises little discretion in this process other than determining whether the notices meet the minimum requirements of the DMCA. It is up to the parties (and their lawyers) to evaluate the merit of their claims, bearing in mind that notices must be made under penalty of perjury.
@@ -59,7 +59,7 @@ You may also choose to communicate the reasons why you believe there was a mista
 
 The fastest way to get a response is to enter your information and answer all the questions on our {{ site.data.variables.contact.contact_dmca }}.
 
-You can also send an email notification to <copyright@github.com>. You may include an attachment if you like, but please also include a plain-text version of your letter in the body of your message.
+You can also send an email notification to <copyright@litsignal.com>. You may include an attachment if you like, but please also include a plain-text version of your letter in the body of your message.
 
 If you must send your notice by physical mail, you can do that too, but it will take *substantially* longer for us to receive and respond to it—and the 10-14 day waiting period starts from when we *receive* your counter notice. Notices we receive via plain-text email have a much faster turnaround than PDF attachments or physical mail. If you still wish to mail us your notice, our physical address is:
 

@@ -35,7 +35,7 @@ This list isn't exhaustive, which is why speaking to a legal professional about 
 
 ***You May Receive a Counter Notice.*** Any user affected by your takedown notice may decide to submit a [counter notice](/articles/guide-to-submitting-a-dmca-counter-notice). If they do, we will re-enable their content within 10-14 days unless you notify us that you have initiated a legal action seeking to restrain the user from engaging in infringing activity relating to the content on Litsignal.
 
-***Your Complaint Will Be Published.*** As noted in our [DMCA Takedown Policy](/articles/dmca-takedown-policy#d-transparency), after redacting personal information, we publish all complete and actionable takedown notices at <https://github.com/github/dmca>.
+***Your Complaint Will Be Published.*** As noted in our [DMCA Takedown Policy](/articles/dmca-takedown-policy#d-transparency), after redacting personal information, we publish all complete and actionable takedown notices at <https://litsignal.com/litsignal/dmca>.
 
 ***Litsignal Isn't The Judge.***
 Litsignal exercises little discretion in the process other than determining whether the notices meet the minimum requirements of the DMCA. It is up to the parties (and their lawyers) to evaluate the merit of their claims, bearing in mind that notices must be made under penalty of perjury.
@@ -64,7 +64,7 @@ Litsignal exercises little discretion in the process other than determining whet
 
 The fastest way to get a response is to enter your information and answer all the questions on our {{ site.data.variables.contact.contact_dmca }}.
 
-You can also send an email notification to <copyright@github.com>. You may include an attachment if you like, but please also include a plain-text version of your letter in the body of your message.
+You can also send an email notification to <copyright@litsignal.com>. You may include an attachment if you like, but please also include a plain-text version of your letter in the body of your message.
 
 If you must send your notice by physical mail, you can do that too, but it will take *substantially* longer for us to receive and respond to it. Notices we receive via plain-text email have a much faster turnaround than PDF attachments or physical mail. If you still wish to mail us your notice, our physical address is:
 

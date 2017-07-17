@@ -6,7 +6,7 @@ Not applicable
 
 ### Business Plan Addendum
 
-These are the additional terms for Litsignal's Business plan ("Business Plan Terms"). Any capitalized terms not defined in these Business Plan Terms will be defined in the [Terms of Service](/articles/github-terms-of-service/) or the [Corporate Terms of Service](/articles/github-corporate-terms-of-service/). By agreeing to these Business Plan Terms, you also agree to the Terms of Service, as determined by the type of account you have.
+These are the additional terms for Litsignal's Business plan ("Business Plan Terms"). Any capitalized terms not defined in these Business Plan Terms will be defined in the [Terms of Service](/articles/litsignal-terms-of-service/) or the [Corporate Terms of Service](/articles/litsignal-corporate-terms-of-service/). By agreeing to these Business Plan Terms, you also agree to the Terms of Service, as determined by the type of account you have.
 
 
 ### Definitions:
@@ -40,4 +40,4 @@ What are Uptime Service Credits, how can I find out if I have them, and how can 
 - In order to be granted an Uptime Service Credits, either an account Owner or Billing Manager must send in a written request, on Customer's behalf, within 30 days of the end of each quarter. Uptime Service Credits may not be saved. After being granted an Uptime Service Credit, it will be automatically applied to Customer's next bill. Written requests should be sent to {{ site.data.variables.contact.contact_support }}.
 
 **Disclaimer and Limitation of Liability:**
-Litsignal's [Status Page](https://status.github.com/) is not connected to this Uptime SLA and is not an accurate representation of Litsignal's Uptime for the purposes of calculating Uptime Service Credits. Service Credits are limited to 30 days of paid service, per quarter. Service Credits are Customer's only remedy for any failure by Litsignal to meet any Uptime obligations as identified in this Addendum.
+Litsignal's [Status Page](https://status.litsignal.com/) is not connected to this Uptime SLA and is not an accurate representation of Litsignal's Uptime for the purposes of calculating Uptime Service Credits. Service Credits are limited to 30 days of paid service, per quarter. Service Credits are Customer's only remedy for any failure by Litsignal to meet any Uptime obligations as identified in this Addendum.

@@ -4,7 +4,7 @@ redirect_from:
   - /tos/
   - /terms/
   - /terms-of-service/
-  - /github-terms-of-service-draft/
+  - /litsignal-terms-of-service-draft/
 ---
 
 Thank you for using Litsignal! We're happy you're here. Please read this Terms of Service agreement carefully before accessing or using Litsignal. Because it is such an important contract between us and our users, we have tried to make it as clear as possible. For your convenience, we have presented these terms in a short non-binding summary followed by the full legal terms.
@@ -20,12 +20,12 @@ Thank you for using Litsignal! We're happy you're here. Please read this Terms o
 | [E. Copyright & DMCA Policy](#e-copyright-infringement-and-dmca-policy) | This section talks about how Litsignal will respond if you believe someone is infringing your copyrights on Litsignal. |
 | [F. Intellectual Property Notice](#f-intellectual-property-notice) | This describes Litsignal's rights in the website and service. |
 | [G. API Terms](#g-api-terms) | These are the rules for using Litsignal's APIs, whether you are using the API for development or data collection. |
-| [H. Additional Terms for Litsignal Pages](#h-additional-terms-for-github-pages) | We have a few specific rules for content hosted using Litsignal Pages. |
-| [I. Additional Terms for Litsignal Marketplace](#i-additional-terms-for-github-marketplace) | We have another set of terms for Litsignal Marketplace. |
-| [J. Advertising on Litsignal](#j-advertising-on-github) | If you want to promote your content on Litsignal, this section lays out some rules you must follow. |
+| [H. Additional Terms for Litsignal Pages](#h-additional-terms-for-litsignal-pages) | We have a few specific rules for content hosted using Litsignal Pages. |
+| [I. Additional Terms for Litsignal Marketplace](#i-additional-terms-for-litsignal-marketplace) | We have another set of terms for Litsignal Marketplace. |
+| [J. Advertising on Litsignal](#j-advertising-on-litsignal) | If you want to promote your content on Litsignal, this section lays out some rules you must follow. |
 | [K. Payment](#k-payment) | You are responsible for payment. We are responsible for billing you accurately. |
 | [L. Cancellation and Termination](#l-cancellation-and-termination) | You may cancel this agreement and close your account at any time. |
-| [M. Communications with Litsignal](#m-communications-with-github) | We only use email and other electronic means to stay in touch with our users. We do not provide phone support. |
+| [M. Communications with Litsignal](#m-communications-with-litsignal) | We only use email and other electronic means to stay in touch with our users. We do not provide phone support. |
 | [N. Disclaimer of Warranties](#n-disclaimer-of-warranties) | We provide our service as is, and we make no promises or guarantees about this service. **Please read this section carefully; you should understand what to expect.** |
 | [O. Limitation of Liability](#o-limitation-of-liability) | We will not be liable for damages or losses arising from your use or inability to use the service or otherwise arising under this agreement. **Please read this section carefully; it limits our obligations to you.** |
 | [P. Release and Indemnification](#p-release-and-indemnification) | You are fully responsible for your use of the service. |
@@ -39,11 +39,11 @@ Effective date: May 22, 2017
 ### A. Definitions
 **Short version:** *We use these basic terms throughout the agreement, and they have specific meanings. You should know what we mean when we use each of the terms. There's not going to be a test on it, but it's still useful information.*
 
-1. The “Agreement” refers, collectively, to all the terms, conditions, notices contained or referenced in this document (the “Terms of Service” or the "Terms") and all other operating rules, policies (including the Litsignal Privacy Statement, available at [github.com/site/privacy](https://github.com/site/privacy)) and procedures that we may publish from time to time on the Website. Most of our site policies are available at [help.github.com/categories/site-policy](/categories/site-policy/).
+1. The “Agreement” refers, collectively, to all the terms, conditions, notices contained or referenced in this document (the “Terms of Service” or the "Terms") and all other operating rules, policies (including the Litsignal Privacy Statement, available at [litsignal.com/site/privacy](https://litsignal.com/site/privacy)) and procedures that we may publish from time to time on the Website. Most of our site policies are available at [help.litsignal.com/categories/site-policy](/categories/site-policy/).
 2. The “Service” refers to the applications, software, products, and services provided by Litsignal.
-3. The “Website” refers to Litsignal’s website located at [github.com](https://github.com/), and all content, services, and products provided by Litsignal at or through the Website. It also refers to Litsignal-owned subdomains of github.com, such as [assets.github.com](https://assets.github.com/) and [blog.github.com](https://blog.github.com/). Occasionally, websites owned by Litsignal may provide different or additional terms of service. If those additional terms conflict with this Agreement, the more specific terms apply to the relevant page or service.
+3. The “Website” refers to Litsignal’s website located at [litsignal.com](https://litsignal.com/), and all content, services, and products provided by Litsignal at or through the Website. It also refers to Litsignal-owned subdomains of litsignal.com, such as [assets.litsignal.com](https://assets.litsignal.com/) and [blog.litsignal.com](https://blog.litsignal.com/). Occasionally, websites owned by Litsignal may provide different or additional terms of service. If those additional terms conflict with this Agreement, the more specific terms apply to the relevant page or service.
 4. “The User,” “You,” and “Your” refer to the individual person, company, or organization that has visited or is using the Website or Service; that accesses or uses any part of the account; or that directs the use of the account in the performance of its functions. A User must be at least 13 years of age. Special terms may apply for business or government accounts (See [Section B(4): Additional Terms](#4-additional-terms)).
-5. “Litsignal,” “We,” and “Us” refer to Litsignal, Inc., as well as our affiliates, directors, subsidiaries, contractors, licensors, officers, agents, and employees.
+5. “Litsignal,” “We,” and “Us” refer to Atanemi, LLC, as well as our affiliates, directors, subsidiaries, contractors, licensors, officers, agents, and employees.
 6. “Content” refers to content featured or displayed through the Website, including without limitation text, data, articles, images, photographs, graphics, audio, video, applications, and other materials that are available on the Website or otherwise available through the Service. "Content" also includes Services. “User-Generated Content” is Content, written or otherwise, created or uploaded by our Users. “Paid Content” is Content only available to Users who are participating in a payment plan, including private modules.
 
 ### B. Account Terms
@@ -64,14 +64,14 @@ We have a few simple rules for accounts on Litsignal's Service.
 You are responsible for keeping your account secure while you use our Service. We offer tools to help you maintain your account's security, but the content of your account and its security are up to you.
 - You are responsible for all content posted and activity that occurs under your account (even when content is posted by others who have accounts under your account).
 - You are responsible for maintaining the security of your account and password. Litsignal cannot and will not be liable for any loss or damage from your failure to comply with this security obligation.
-- You will promptly [notify Litsignal](https://github.com/contact) if you become aware of any unauthorized use of, or access to, our Service through your account, including any unauthorized use of your password or account.
+- You will promptly [notify Litsignal](https://litsignal.com/contact) if you become aware of any unauthorized use of, or access to, our Service through your account, including any unauthorized use of your password or account.
 
 #### 4. Additional Terms
 In some situations, third parties' terms may apply to your use of Litsignal. For example, you may be a member of an organization on Litsignal with its own terms or license agreements; you may download an application that integrates with Litsignal; or you may use Litsignal to authenticate to another service. Please be aware that while these Terms are our full agreement with you, other parties' terms govern their relationships with you.
 
-If you are a government User or otherwise accessing or using any Litsignal Service in a government capacity, this [Government Amendment to Litsignal Terms of Service](/articles/amendment-to-github-terms-of-service-applicable-to-u-s-federal-government-users/) applies to you, and you agree to its provisions.
+If you are a government User or otherwise accessing or using any Litsignal Service in a government capacity, this [Government Amendment to Litsignal Terms of Service](/articles/amendment-to-litsignal-terms-of-service-applicable-to-u-s-federal-government-users/) applies to you, and you agree to its provisions.
 
-If you have signed up for a Business plan, the [Business Plan Addendum](/articles/github-business-plan-addendum/) applies to you, and you agree to its provisions.
+If you have signed up for a Business plan, the [Business Plan Addendum](/articles/litsignal-business-plan-addendum/) applies to you, and you agree to its provisions.
 
 If you are an owner or administrator of an Organization on Litsignal, additional terms may govern your relationship with us and supersede this Agreement.
 
@@ -109,12 +109,12 @@ Scraping refers to extracting data from our Website via an automated process, su
 
 You may not scrape Litsignal for spamming purposes, including for the purposes of selling Litsignal users' personal information, such as to recruiters, headhunters, and job boards.
 
-All use of Litsignal data gathered through scraping must comply with the [Litsignal Privacy Statement](https://github.com/site/privacy).
+All use of Litsignal data gathered through scraping must comply with the [Litsignal Privacy Statement](https://litsignal.com/site/privacy).
 
 #### 6. Privacy
 Misuse of Litsignal Users' Personal Information is prohibited.
 
-Any person, entity, or service collecting data from Litsignal must comply with the [Litsignal Privacy Statement](https://github.com/site/privacy), particularly in regards to the collection of our Users' Personal Information (as defined in the Litsignal Privacy Statement). If you collect any Litsignal User's Personal Information from Litsignal, you agree that you will only use the Personal Information you gather for the purpose for which our User has authorized it. You agree that you will reasonably secure any Personal Information you have gathered from Litsignal, and you will respond promptly to complaints, removal requests, and "do not contact" requests from Litsignal or Litsignal Users.
+Any person, entity, or service collecting data from Litsignal must comply with the [Litsignal Privacy Statement](https://litsignal.com/site/privacy), particularly in regards to the collection of our Users' Personal Information (as defined in the Litsignal Privacy Statement). If you collect any Litsignal User's Personal Information from Litsignal, you agree that you will only use the Personal Information you gather for the purpose for which our User has authorized it. You agree that you will reasonably secure any Personal Information you have gathered from Litsignal, and you will respond promptly to complaints, removal requests, and "do not contact" requests from Litsignal or Litsignal Users.
 
 #### 7. Excessive Bandwidth Use
 If we determine your bandwidth usage to be significantly excessive in relation to other Litsignal customers, we reserve the right to suspend your account or throttle your file hosting until you can reduce your bandwidth consumption.
@@ -157,10 +157,10 @@ You retain all moral rights to Content you upload, publish, or submit to any par
 To the extent such an agreement is not enforceable by applicable law, you grant Litsignal a nonexclusive, revocable, worldwide, royalty-free right to (1) use the Content without attribution strictly as necessary to render the Website and provide the Service; and (2) make reasonable adaptations of the Content as provided in this Section. We need these rights to allow basic functions like search to work. 
 
 #### 8. Private Modules
-Paid accounts may have [private modules](/articles/making-a-public-module-private/), which allow the User to control access to Content. Litsignal employees [only access private modules when access is required for security or maintenance](/articles/github-security/#employee-access) or for support reasons, and then only with the consent of the module owner. Because we respect your privacy in private modules, you must respect the Terms of Service in everything you post to a private module. If we have reason to believe the contents of a private module are in violation of the law or of these Terms, we have the right to remove them.
+Paid accounts may have [private modules](/articles/making-a-public-module-private/), which allow the User to control access to Content. Litsignal employees [only access private modules when access is required for security or maintenance](/articles/litsignal-security/#employee-access) or for support reasons, and then only with the consent of the module owner. Because we respect your privacy in private modules, you must respect the Terms of Service in everything you post to a private module. If we have reason to believe the contents of a private module are in violation of the law or of these Terms, we have the right to remove them.
 
 ### E. Copyright Infringement and DMCA Policy
-If you believe that content on our website violates your copyright, please contact us in accordance with our [Digital Millennium Copyright Act Policy](/articles/dmca-takedown-policy/). If you are a copyright owner and you believe that content on Litsignal violates your rights, please contact us via [our convenient DMCA form](https://github.com/contact/dmca) or by emailing copyright@github.com. There may be legal consequences for sending a false or frivolous takedown notice. Before sending a takedown request, you must consider legal uses such as fair use and licensed uses.
+If you believe that content on our website violates your copyright, please contact us in accordance with our [Digital Millennium Copyright Act Policy](/articles/dmca-takedown-policy/). If you are a copyright owner and you believe that content on Litsignal violates your rights, please contact us via [our convenient DMCA form](https://litsignal.com/contact/dmca) or by emailing copyright@litsignal.com. There may be legal consequences for sending a false or frivolous takedown notice. Before sending a takedown request, you must consider legal uses such as fair use and licensed uses.
 
 We will terminate the accounts of [repeat infringers](/articles/dmca-takedown-policy/#e-repeated-infringement) of this policy.
 
@@ -168,10 +168,10 @@ We will terminate the accounts of [repeat infringers](/articles/dmca-takedown-po
 **Short version:** *We own the service and all of our content. In order for you to use our content, we give you certain rights to it, but you may only use our content in the way we have allowed.*
 
 #### 1. Litsignal's Rights to Content
-Litsignal and our licensors, vendors, agents, and/or our content providers retain ownership of all intellectual property rights of any kind related to the Website and Service. We reserve all rights that are not expressly granted to you under this Agreement or by law. The look and feel of the Website and Service is copyright © Litsignal, Inc. All rights reserved. You may not duplicate, copy, or reuse any portion of the HTML/CSS, Javascript, or visual design elements or concepts without express written permission from Litsignal.
+Litsignal and our licensors, vendors, agents, and/or our content providers retain ownership of all intellectual property rights of any kind related to the Website and Service. We reserve all rights that are not expressly granted to you under this Agreement or by law. The look and feel of the Website and Service is copyright © Atanemi, LLC All rights reserved. You may not duplicate, copy, or reuse any portion of the HTML/CSS, Javascript, or visual design elements or concepts without express written permission from Litsignal.
 
 #### 2. Litsignal Trademarks and Logos
-If you’d like to use Litsignal’s trademarks, you must follow all of our trademark guidelines, including those on our logos page: https://github.com/logos.
+If you’d like to use Litsignal’s trademarks, you must follow all of our trademark guidelines, including those on our logos page: https://litsignal.com/logos.
 
 #### 3. License to Litsignal Policies
 This Agreement is licensed under the [Creative Commons Attribution license](https://creativecommons.org/licenses/by/4.0/). You may use it freely under the terms of the Creative Commons license.
@@ -192,13 +192,13 @@ Advertising Content, like all Content, must not violate the law or these Terms o
 **Short version:** *You are responsible for any fees associated with your use of Litsignal. We are responsible for communicating those fees to you clearly and accurately, and letting you know well in advance if those prices change.*
 
 #### 1. Pricing
-Our pricing and payment terms are available at [github.com/pricing](https://github.com/pricing). If you agree to a subscription price, that will remain your price for the duration of the payment term; however, prices are subject to change at the end of a payment term.
+Our pricing and payment terms are available at [litsignal.com/pricing](https://litsignal.com/pricing). If you agree to a subscription price, that will remain your price for the duration of the payment term; however, prices are subject to change at the end of a payment term.
 
 #### 2. Upgrades, Downgrades, and Changes
 - We will immediately bill you when you upgrade from the free plan to any paying plan.
 - If you change from a monthly billing plan to a yearly billing plan, Litsignal will bill you for a full year at the next monthly billing date.
 - If you upgrade to a higher level of service, we will bill you for the upgraded plan immediately.
-- You may change your level of service at any time by [choosing a plan option](https://github.com/pricing) or going into your [Billing settings](https://github.com/settings/billing). If you choose to downgrade your account, you may lose access to Content, features, or capacity of your account. Please see our section on [Cancellation](#l-cancellation-and-termination) for information on getting a copy of that Content.
+- You may change your level of service at any time by [choosing a plan option](https://litsignal.com/pricing) or going into your [Billing settings](https://litsignal.com/settings/billing). If you choose to downgrade your account, you may lose access to Content, features, or capacity of your account. Please see our section on [Cancellation](#l-cancellation-and-termination) for information on getting a copy of that Content.
 
 #### 3. Billing Schedule; No Refunds
 - For monthly or yearly payment plans, the Service is billed in advance on a monthly or yearly basis respectively and is non-refundable. There will be no refunds or credits for partial months of service, downgrade refunds, or refunds for months unused with an open account; however, the service will remain active for the length of the paid billing period.
@@ -208,7 +208,7 @@ Our pricing and payment terms are available at [github.com/pricing](https://gith
 By agreeing to these Terms, you are giving us permission to charge your on-file credit card, PayPal account, or other approved methods of payment for fees that you authorize for Litsignal.
 
 #### 5. Responsibility for Payment
-You are responsible for all fees, including taxes, associated with your use of the Service. By using the Service, you agree to pay Litsignal any charge incurred in connection with your use of the Service.  If you dispute the matter, contact [Litsignal Support](https://github.com/contact). You are responsible for providing us with a valid means of payment for paid accounts. Free accounts are not required to provide payment information.
+You are responsible for all fees, including taxes, associated with your use of the Service. By using the Service, you agree to pay Litsignal any charge incurred in connection with your use of the Service.  If you dispute the matter, contact [Litsignal Support](https://litsignal.com/contact). You are responsible for providing us with a valid means of payment for paid accounts. Free accounts are not required to provide payment information.
 
 ### I. Cancellation and Termination
 **Short version:** *You may close your account at any time. If you do, we'll treat your information responsibly.*
@@ -284,7 +284,7 @@ We reserve the right at any time and from time to time to modify or discontinue,
 Except to the extent applicable law provides otherwise, this Agreement between you and Litsignal and any access to or use of the Website or the Service are governed by the federal laws of the United States of America and the laws of the State of Arizona, without regard to conflict of law provisions. You and Litsignal agree to submit to the exclusive jurisdiction and venue of the courts located in the City of Phoenix, Arizona.
 
 #### 2. Non-Assignability
-Litsignal may assign or delegate these Terms of Service and/or the [Litsignal Privacy Statement](https://github.com/site/privacy), in whole or in part, to any person or entity at any time with or without your consent, including the license grant in Section D.4. You may not assign or delegate any rights or obligations under the Terms of Service or Privacy Statement without our prior written consent, and any unauthorized assignment and delegation by you is void.
+Litsignal may assign or delegate these Terms of Service and/or the [Litsignal Privacy Statement](https://litsignal.com/site/privacy), in whole or in part, to any person or entity at any time with or without your consent, including the license grant in Section D.4. You may not assign or delegate any rights or obligations under the Terms of Service or Privacy Statement without our prior written consent, and any unauthorized assignment and delegation by you is void.
 
 #### 3. Section Headings and Summaries
 Throughout this Agreement, each section includes titles and brief summaries of the following terms and conditions. These section titles and brief summaries are not legally binding.
@@ -296,5 +296,5 @@ If any part of this Agreement is held invalid or unenforceable, that portion of 
 These Terms of Service, together with the Litsignal Privacy Statement, represent the complete and exclusive statement of the agreement between you and us. This Agreement supersedes any proposal or prior agreement oral or written, and any other communications between you and Litsignal relating to the subject matter of these terms.
 
 #### 6. Questions
-Questions about the Terms of Service? [Contact us](https://github.com/contact).
+Questions about the Terms of Service? [Contact us](https://litsignal.com/contact).
 

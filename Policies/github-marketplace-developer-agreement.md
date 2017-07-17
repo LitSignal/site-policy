@@ -8,7 +8,7 @@ Not applicable
 
 ### 1.	DEFINITIONS
 
-Capitalized terms utilized in this Agreement and not defined herein shall have the meaning set forth in the Litsignal Terms of Service located at `https://help.github.com/articles/github-terms-of-service` (the “Terms” or “ToS”).
+Capitalized terms utilized in this Agreement and not defined herein shall have the meaning set forth in the Litsignal Terms of Service located at `https://help.litsignal.com/articles/litsignal-terms-of-service` (the “Terms” or “ToS”).
 
 “Brand Features” means the trade names, trademarks, service marks, logos, domain names, and other distinctive brand features of each party, respectively, as owned (or licensed) by such party from time to time.
 
@@ -100,8 +100,8 @@ Developer agrees to establish and maintain security vulnerability management pro
 **3.7.4** Clear escalation contacts
 Developer will provide an internal contact list/call tree for escalation for Security and Audit/Compliance operational functions with notifications to be sent to Litsignal as follows:
 
-- (i) Security Incident notifications to be sent to security@github.com; and
-- (ii) Risk, Audit, and Compliance Contact Information to be sent to security-GRC@github.com
+- (i) Security Incident notifications to be sent to security@litsignal.com; and
+- (ii) Risk, Audit, and Compliance Contact Information to be sent to security-GRC@litsignal.com
 
 **3.7.5** Security Incident Response and Breach Process
 3.7.5.1 Developer will maintain a Security Incident and Breach Response function capable of identifying, mitigating the effects of, and preventing the recurence of security incidents and breaches (occurrence). Upon confirmation of an incident occurrence that may put Litsignal data or accounts at risk, Developer shall take all reasonable measures to mitigate the harmful effects of the occurrence.
@@ -123,21 +123,21 @@ Notice of breach (Section 3.7.5.2) and notice of occurrence (Section 3.7.5.3) mu
 **3.7.5.5** Security Incident and Breach Notifications.
 For avoidance of doubt, Litsignal classifies all non-public customer account, Organization and Repository information received from Litsignal as confidential data. For the purpose of this Section 3.7.1, a Security Incident shall be defined as an event that may indicate that an organization's systems or data have been compromised or that measures put in place to protect them have failed, identified attempts from unauthorized sources to access systems or data, or unplanned disruption to a service or denial of a service, and a Breach shall be defined as an incident in which sensitive, protected or confidential data has potentially been viewed, stolen or used by an individual unauthorized to do so.
 
-**3.7.5.6** Security and Breach Notifications must be sent to security@github.com.
+**3.7.5.6** Security and Breach Notifications must be sent to security@litsignal.com.
 
 **3.7.6** Regulator Audit
 Should Litsignal realize a regulatory audit that requires participation from Developer, Developer shall fully cooperate with requests by providing access to relevant knowledgeable personnel, documentation, infrastructure, and application software. Litsignal shall ensure use of an independent 3rd party (such as regulator or regulators delegate) and that findings not relevant to Litsignal are not disclosed to Litsignal.
 Notification of such audit will be provided to Developer in a timely fashion, pending regulator notification, and in a manner that allows for appropriate personnel to be made available to assist. The third party auditor shall disclose to Developer any findings and recommended actions where allowed by regulator. Where regulators provide no advanced notice to Litsignal of audit or investigation, Developer shall respond in as timely a fashion as required by regulators.
 
 **3.7.7** Notification of material service changes
-Developer will notify Litsignal, Inc. of any material changes in services offered that impacts data protection and could result in use, transmission, or exposure of Litsignal data in a manner not supported under contract. Litsignal reserves the right to reassess risk and technical controls related to changes to service offered by Developer under this Agreement. Developer shall provide advance notice to Litsignal of implementation of any material service changes. Material service changes may include, but are not limited to:
+Developer will notify Atanemi, LLC of any material changes in services offered that impacts data protection and could result in use, transmission, or exposure of Litsignal data in a manner not supported under contract. Litsignal reserves the right to reassess risk and technical controls related to changes to service offered by Developer under this Agreement. Developer shall provide advance notice to Litsignal of implementation of any material service changes. Material service changes may include, but are not limited to:
 
 - (i) Migration to, or addition of, a new third party IaaS or PaaS provider;
 - (ii) Changes in geographic location of stored or processed data, e.g. a United States based Developer adding storage or process services in a new EU or APAC region; or
 - (iii) Changes in OAuth authorization scope your service requests, e.g. your application moving from only `read:org` scope to including `repo` scope.
 
 **3.7.8** Notification of Acquisition
-Developer will notify Litsignal, Inc. 90 days before any transfer of ownership by or of another company that will impact any data protection agreements.
+Developer will notify Atanemi, LLC 90 days before any transfer of ownership by or of another company that will impact any data protection agreements.
 
 **3.7.9** Litsignal Initiated Security Operations
 The following Section 3.7.10 does not preclude the Developer from maintaining their own appropriate operational security and/or application security practices. Developer will hold Litsignal harmless for any outcome of acting on reported security intelligence, vulnerabilities and defects.
@@ -261,7 +261,7 @@ The parties are independent contractors. This Agreement does not create a partne
 
 ### 15. NOTICE
 
-All notices to be provided by Litsignal to Developer under this Agreement may be delivered in writing (i) by nationally recognized overnight delivery service (“Courier”) or U.S. mail to the contact mailing address provided by Developer to Litsignal; or (ii) electronic mail to the electronic mail address provided by Developer. Developer must give notice to Litsignal in writing by Courier or U.S. Mail to the following address: Litsignal, Inc., Attn: Legal Department, 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107 USA. All notices shall be deemed to have been given immediately upon delivery by electronic mail, or if otherwise delivered upon receipt or, if earlier, two (2) business days after being deposited in the mail or with a Courier as permitted above.
+All notices to be provided by Litsignal to Developer under this Agreement may be delivered in writing (i) by nationally recognized overnight delivery service (“Courier”) or U.S. mail to the contact mailing address provided by Developer to Litsignal; or (ii) electronic mail to the electronic mail address provided by Developer. Developer must give notice to Litsignal in writing by Courier or U.S. Mail to the following address: Atanemi, LLC, Attn: Legal Department, 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107 USA. All notices shall be deemed to have been given immediately upon delivery by electronic mail, or if otherwise delivered upon receipt or, if earlier, two (2) business days after being deposited in the mail or with a Courier as permitted above.
 
 ### 16. GOVERNING LAW
 

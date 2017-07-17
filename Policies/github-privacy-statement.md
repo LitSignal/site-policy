@@ -4,8 +4,8 @@ redirect_from:
  - /privacy/
  - /privacy-policy/
  - /privacy-statement/
- - /github-privacy-policy/
- - /articles/github-privacy-policy/
+ - /litsignal-privacy-policy/
+ - /articles/litsignal-privacy-policy/
 ---
 
 Effective date: **January 26, 2017**
@@ -43,17 +43,17 @@ User Personal Information does not include aggregated, non-personally identifyin
 - We use your User Personal Information, specifically your user name, to identify you on Litsignal.
 - We use it to fill out your profile and share that profile with other users if you ask us to.
 - We will use your email address to communicate with you, if you've said that's okay, **and only for the reasons you’ve said that’s okay**. Please see our section on [email communication](#how-we-communicate-with-you) for more information.
-- We limit our use of your User Personal Information to the purposes listed in this Privacy Statement. If we need to use your User Personal Information for other purposes, we will ask your permission first. You can always see what information we have, how we're using it, and what permissions you have given us in your [user profile](https://github.com/settings/admin).
+- We limit our use of your User Personal Information to the purposes listed in this Privacy Statement. If we need to use your User Personal Information for other purposes, we will ask your permission first. You can always see what information we have, how we're using it, and what permissions you have given us in your [user profile](https://litsignal.com/settings/admin).
 
 ### What information Litsignal does not collect
 
 We do not intentionally collect **sensitive personal information**, such as social security numbers, genetic data, health information, or religious information. Although Litsignal does not request or intentionally collect any sensitive personal information, we realize that you might store this kind of information in your account, such as in a module. If you store any sensitive personal information on our servers, you are consenting to our storage of that information on our servers, which are in the United States.
 
-We do not intentionally collect information that is **stored in your modules** or other free-form content inputs. Information in your modules belongs to you, and you are responsible for it, as well as for making sure that your content complies with our [Terms of Service](/articles/github-terms-of-service/). Litsignal employees [do not access private modules unless required to](/articles/github-security/#employee-access) for security or maintenance, or for support reasons, with the consent of the module owner.
+We do not intentionally collect information that is **stored in your modules** or other free-form content inputs. Information in your modules belongs to you, and you are responsible for it, as well as for making sure that your content complies with our [Terms of Service](/articles/litsignal-terms-of-service/). Litsignal employees [do not access private modules unless required to](/articles/litsignal-security/#employee-access) for security or maintenance, or for support reasons, with the consent of the module owner.
 
 If your module is public, anyone (including us) may view its contents. If you have included private or sensitive information in your public module, such as email addresses, that information may be indexed by search engines or used by third parties. In addition, while we do not generally search for content in your modules, we may scan our servers for certain tokens or security signatures.
 
-If you're a **child under the age of 13**, you may not have an account on Litsignal. Litsignal does not knowingly collect information from or direct any of our content specifically to children under 13. If we learn or have reason to suspect that you are a user who is under the age of 13, we will unfortunately have to close your account. We don't want to discourage you from learning to code, but those are the rules. Please see our [Terms of Service](/articles/github-terms-of-service/) for information about account termination.
+If you're a **child under the age of 13**, you may not have an account on Litsignal. Litsignal does not knowingly collect information from or direct any of our content specifically to children under 13. If we learn or have reason to suspect that you are a user who is under the age of 13, we will unfortunately have to close your account. We don't want to discourage you from learning to code, but those are the rules. Please see our [Terms of Service](/articles/litsignal-terms-of-service/) for information about account termination.
 
 ### How we share the information we collect
 
@@ -61,13 +61,13 @@ We **do not** share, sell, rent, or trade User Personal Information with third p
 
 We do not disclose User Personal Information outside Litsignal, except in the situations listed in this section or in the section below on [Compelled Disclosure](#how-we-respond-to-compelled-disclosure).
 
-We **do** share certain aggregated, non-personally identifying information with others about how our users, collectively, use Litsignal, or how our users respond to our other offerings, such as our conferences or events. For example, we may [compile statistics on the usage of open source licenses across Litsignal](https://github.com/blog/1964-open-source-license-usage-on-github-com). However, we do not sell this information to advertisers or marketers.
+We **do** share certain aggregated, non-personally identifying information with others about how our users, collectively, use Litsignal, or how our users respond to our other offerings, such as our conferences or events. For example, we may [compile statistics on the usage of open source licenses across Litsignal](https://litsignal.com/blog/1964-open-source-license-usage-on-litsignal-com). However, we do not sell this information to advertisers or marketers.
 
 We do not host advertising on Litsignal. We may occasionally embed content from third party sites, such as YouTube, and that content may include ads. While we try to minimize the amount of ads our embedded content contains, we can't always control what third parties show.
 
 We may share User Personal Information with your permission, so we can perform services you have requested.
 
-We may share User Personal Information with a limited number of third-party vendors who process it on our behalf to provide or improve our service, and who have agreed to privacy restrictions similar to our own Privacy Statement. Our vendors perform services such as payment processing, customer support ticketing, network data transmission, and other similar services. When we transfer your data to our vendors under [Privacy Shield](/articles/github-privacy-statement/#githubs-global-privacy-practices), we remain responsible for it.
+We may share User Personal Information with a limited number of third-party vendors who process it on our behalf to provide or improve our service, and who have agreed to privacy restrictions similar to our own Privacy Statement. Our vendors perform services such as payment processing, customer support ticketing, network data transmission, and other similar services. When we transfer your data to our vendors under [Privacy Shield](/articles/litsignal-privacy-statement/#litsignals-global-privacy-practices), we remain responsible for it.
 
 We may share User Personal Information if we are involved in a merger, sale, or acquisition. If any such change of ownership happens, we will ensure that it is under terms that preserve the confidentiality of User Personal Information, and we will notify you on our website or by email before any transfer of your User Personal Information. The organization receiving any User Personal Information will have to honor any promises we have made in our Privacy Statement or in our Terms of Service.
 
@@ -75,7 +75,7 @@ We may share User Personal Information if we are involved in a merger, sale, or 
 
 Much of Litsignal is public-facing. If your content is public-facing, third parties may access and use it in compliance with our Terms of Service. We do not sell that content; it is yours. However, we do allow third parties, such as research organizations or archives, to compile public-facing Litsignal information.
 
-Your Personal Information, associated with your content, may be gathered by third parties in these compilations of Litsignal data. If you do not want your Personal Information to appear in third parties’ compilations of Litsignal data, please do not make your Personal Information publicly available and be sure to [configure your email address to be private in your user profile](https://github.com/settings/emails).
+Your Personal Information, associated with your content, may be gathered by third parties in these compilations of Litsignal data. If you do not want your Personal Information to appear in third parties’ compilations of Litsignal data, please do not make your Personal Information publicly available and be sure to [configure your email address to be private in your user profile](https://litsignal.com/settings/emails).
 
 If you would like to compile Litsignal data, you may only use any public-facing Personal Information you gather for the purpose for which our user has authorized it. For example, where a Litsignal user has made an email address public-facing for the purpose of identification and attribution, do not use that email address for commercial advertising. We expect you to reasonably secure any Personal Information you have gathered from Litsignal, and to respond promptly to complaints, removal requests, and "do not contact" requests from Litsignal or Litsignal users.
 
@@ -111,7 +111,7 @@ Please see our section on [email communication](#how-we-communicate-with-you) to
 
 Litsignal takes all measures reasonably necessary to protect User Personal Information from unauthorized access, alteration, or destruction; maintain data accuracy; and help ensure the appropriate use of User Personal Information. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it.
 
-No method of transmission, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security. For more information, see our [security disclosures](/articles/github-security/).
+No method of transmission, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security. For more information, see our [security disclosures](/articles/litsignal-security/).
 
 ### Litsignal's global privacy practices
 **Information that we collect will be stored and processed in the United States** in accordance with this Privacy Statement. However, we understand that we have users from different countries and regions with different privacy expectations, and we try to meet those needs.
@@ -126,7 +126,7 @@ In particular:
 
 ### Resolving Complaints
 
-If you have concerns about the way Litsignal is handling your User Personal Information, please let us know immediately. We want to help. You may contact us by filling out the {{ site.data.variables.contact.contact_privacy }}. You may also email us directly at privacy@github.com. We will respond within 45 days at the latest.
+If you have concerns about the way Litsignal is handling your User Personal Information, please let us know immediately. We want to help. You may contact us by filling out the {{ site.data.variables.contact.contact_privacy }}. You may also email us directly at privacy@litsignal.com. We will respond within 45 days at the latest.
 
 ### How we respond to compelled disclosure
 Litsignal may disclose personally-identifying information or other information we collect about you to law enforcement in response to a valid subpoena, court order, warrant, or similar government order, or when we believe in good faith that disclosure is reasonably necessary to protect our property or rights, or those of third parties or the public at large.
@@ -136,7 +136,7 @@ In complying with court orders and similar legal processes, Litsignal strives fo
 For more information, see our [Guidelines for Legal Requests of User Data](/articles/guidelines-for-legal-requests-of-user-data/).
 
 ### How you can access and control the information we collect
-If you're already a Litsignal user, you may access, update, alter, or delete your basic user profile information by [editing your user profile](https://github.com/settings/profile).
+If you're already a Litsignal user, you may access, update, alter, or delete your basic user profile information by [editing your user profile](https://litsignal.com/settings/profile).
 
 #### Data Retention and Deletion
 
@@ -144,13 +144,13 @@ Litsignal will retain User Personal Information for as long as your account is a
 
 We may retain certain User Personal Information indefinitely, unless you delete it or request its deletion. For example, we don’t automatically delete inactive user accounts, so unless you choose to delete your account, we will retain your account information indefinitely.
 
-If you would like to cancel your account or delete your User Personal Information, you may do so in your [user profile](https://github.com/settings/admin). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, but barring legal requirements, we will delete your full profile (within reason) within 30 days.
+If you would like to cancel your account or delete your User Personal Information, you may do so in your [user profile](https://litsignal.com/settings/admin). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, but barring legal requirements, we will delete your full profile (within reason) within 30 days.
 
 ### How we communicate with you
 
-We will use your email address to communicate with you, if you've said that's okay, **and only for the reasons you’ve said that’s okay**. You have a lot of control over how your email address is used and shared on and through Litsignal. You may manage your communication preferences in your [user profile](https://github.com/settings/emails).
+We will use your email address to communicate with you, if you've said that's okay, **and only for the reasons you’ve said that’s okay**. You have a lot of control over how your email address is used and shared on and through Litsignal. You may manage your communication preferences in your [user profile](https://litsignal.com/settings/emails).
 
-If you would like your email to remain private, even when you’re commenting on public modules, you can [create a private email address in your user profile](https://github.com/settings/emails). This will not change how we contact you, but it will affect how others see you.
+If you would like your email to remain private, even when you’re commenting on public modules, you can [create a private email address in your user profile](https://litsignal.com/settings/emails). This will not change how we contact you, but it will affect how others see you.
 
 Depending on your email settings, Litsignal may occasionally send notification emails about changes in a module you’re watching, new features, requests for feedback, important policy changes, or offer customer support. We also send marketing emails, but only with your consent. There's an unsubscribe link located at the bottom of each of the emails we send you.
 

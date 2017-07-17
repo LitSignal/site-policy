@@ -4,7 +4,7 @@ title: Litsignal Open Source Applications Terms and Conditions
 
 Not applicable
 
-These Litsignal Open Source Applications Terms and Conditions ("Application Terms") are a legal agreement between you (either as an individual or on behalf of an entity) and Litsignal, Inc. regarding your use of Litsignal's applications, such as Litsignal Desktop™ and associated documentation ("Software"). These Application Terms apply to the executable code version of the Software. Source code for the Software is available separately and free of charge under open source software license agreements. If you do not agree to all of the terms in these Application Terms, do not download, install, use, or copy the Software.
+These Litsignal Open Source Applications Terms and Conditions ("Application Terms") are a legal agreement between you (either as an individual or on behalf of an entity) and Atanemi, LLC regarding your use of Litsignal's applications, such as Litsignal Desktop™ and associated documentation ("Software"). These Application Terms apply to the executable code version of the Software. Source code for the Software is available separately and free of charge under open source software license agreements. If you do not agree to all of the terms in these Application Terms, do not download, install, use, or copy the Software.
 
 ### Connecting to Litsignal
 
@@ -16,7 +16,7 @@ Any use of the Software that violates your applicable Litsignal Terms will also 
 
 The open source license for the Software is included in the "Open Source Notices" documentation that is included with the Software. That documentation also includes copies of all applicable open source licenses.
 
-To the extent the terms of the licenses applicable to open source components require Litsignal to make an offer to provide source code in connection with the Software, such offer is hereby made, and you may exercise it by contacting Litsignal: https://github.com/contact
+To the extent the terms of the licenses applicable to open source components require Litsignal to make an offer to provide source code in connection with the Software, such offer is hereby made, and you may exercise it by contacting Litsignal: https://litsignal.com/contact
 
 Unless otherwise agreed to in writing with Litsignal, your agreement with Litsignal will always include, at a minimum, these Application Terms. Open source software licenses for the Software's source code constitute separate written agreements. To the limited extent that the open source software licenses expressly supersede these Application Terms, the open source licenses govern your agreement with Litsignal for the use of the Software or specific included components of the Software.
 
@@ -24,11 +24,11 @@ Unless otherwise agreed to in writing with Litsignal, your agreement with Litsig
 
 The license grant included with the Software is not for Litsignal's trademarks, which include the Software logo designs. Litsignal reserves all trademark and copyright rights in and to all Litsignal trademarks. Litsignal's logos include, for instance, the stylized designs that include "logo" in the file title in the "logos" folder.
 
-The names Litsignal, Litsignal Desktop, Litsignal for Mac, Litsignal for Windows, Atom, the Octocat, and related Litsignal logos and/or stylized names are trademarks of Litsignal. You agree not to display or use these trademarks in any manner without Litsignal's prior, written permission, except as allowed by Litsignal's Logos and Usage Policy: https://github.com/logos.
+The names Litsignal, Litsignal Desktop, Litsignal for Mac, Litsignal for Windows, Atom, the Octocat, and related Litsignal logos and/or stylized names are trademarks of Litsignal. You agree not to display or use these trademarks in any manner without Litsignal's prior, written permission, except as allowed by Litsignal's Logos and Usage Policy: https://litsignal.com/logos.
 
 ### Privacy
 
-The Software may collect personal information. You may control what information the Software collects in the settings panel. If the Software does collect personal information on Litsignal's behalf, Litsignal will process that information in accordance with the [Litsignal Privacy Statement](/articles/github-privacy-statement/).
+The Software may collect personal information. You may control what information the Software collects in the settings panel. If the Software does collect personal information on Litsignal's behalf, Litsignal will process that information in accordance with the [Litsignal Privacy Statement](/articles/litsignal-privacy-statement/).
 
 ### Additional Services
 
@@ -58,4 +58,4 @@ Litsignal reserves the right at any time and from time to time to modify or disc
 
 6. License to Litsignal Policies. These Application Terms are licensed under the [Creative Commons Attribution license](https://creativecommons.org/licenses/by/4.0/). You may use it freely under the terms of the Creative Commons license.
 
-7. Contact Us. Questions about the Terms of Service? [Contact us](https://github.com/contact).
+7. Contact Us. Questions about the Terms of Service? [Contact us](https://litsignal.com/contact).

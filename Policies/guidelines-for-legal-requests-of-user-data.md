@@ -37,25 +37,25 @@ Before asking us to disclose data, it may be useful to understand how our system
 Litsignal hosts educational modules on its platform.
 Modules on Litsignal—which may be public or private—are most commonly used for medical education projects, but are also often used to work on content of all kinds.
 
-- [**Users**](/articles/github-glossary#user) —
+- [**Users**](/articles/litsignal-glossary#user) —
 Users are represented in our system as personal Litsignal accounts.
 Each user has a personal profile, and can own multiple modules.
 Users can create or be invited to join organizations or to collaborate on another user's module.
 
-- [**Collaborators**](/articles/github-glossary#collaborator) —
+- [**Collaborators**](/articles/litsignal-glossary#collaborator) —
 A collaborator is a user with read and write access to a module who has been invited to contribute by the module owner.
 
-- [**Organizations**](/articles/github-glossary#organizations) —
+- [**Organizations**](/articles/litsignal-glossary#organizations) —
 Organizations are a group of two or more users that typically mirror real-world organizations, such as businesses or projects.
 They are administered by users and can contain both modules and teams of users.
 
-- [**Modules**](/articles/github-glossary#module) —
+- [**Modules**](/articles/litsignal-glossary#module) —
 A module is one of the most basic Litsignal elements.
 They may be easiest to imagine as a container for an educational project.
 A module contains a range of content that may include original copy, files, references, audio and video.
 Modules can have multiple collaborators and, at its administrators' discretion, may be publicly viewable or not.
 
-- [**Components**](/articles/github-glossary#component) —
+- [**Components**](/articles/litsignal-glossary#component) —
 A component is the fundamental building block of a Litsignal module.
 Components may be file attachments, media, references, and even other modules.
 
@@ -67,7 +67,7 @@ Here is a non-exhaustive list of the kinds of data we maintain about users and p
 - <a name="public-account-data"></a>
 **Public account data** —
 There is a variety of information publicly available on Litsignal about users and their modules.
-User profiles can be found at a URL such as `https://github.com/username`.
+User profiles can be found at a URL such as `https://litsignal.com/username`.
 User profiles display information about when the user created their account as well their public activity on Litsignal.com and social interactions.
 Public user profiles can also include additional information that a user may have chosen to share publicly.
 All user public profiles display:
@@ -87,7 +87,7 @@ All user public profiles display:
 
 - <a name="private-account-data"></a>
 **Private account data** —
-Litsignal also collects and maintains certain private information about users as outlined in our [Privacy Policy](/articles/github-privacy-statement).
+Litsignal also collects and maintains certain private information about users as outlined in our [Privacy Policy](/articles/litsignal-privacy-statement).
 This may include:
   - Private email addresses
   - Payment details
@@ -99,7 +99,7 @@ This may include:
 - <a name="public-module-data"></a>
 **Public module data** —
 Litsignal is home to many public, open-source educational projects.
-You can browse almost any public module (for example, the [Atom Project](https://github.com/atom/atom)) to get a sense for the information that Litsignal collects and maintains about modules.
+You can browse almost any public module (for example, the [Atom Project](https://litsignal.com/atom/atom)) to get a sense for the information that Litsignal collects and maintains about modules.
 This can include:
 
   - The module itself
@@ -186,7 +186,7 @@ Atanemi, LLC
 Phoenix, AZ 85028
 ```
 
-You may also send a courtesy copy to legal@support.github.com.
+You may also send a courtesy copy to legal@support.litsignal.com.
 
 Please make your requests as specific and narrow as possible, including the following information:
 

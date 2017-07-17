@@ -1,23 +1,23 @@
 ---
 title: Amendment to Litsignal Terms of Service Applicable to U.S. Federal Government Users
 redirect_from:
-  - "/articles/amendment-to-github-terms-of-service-applicable-to-government-users/"
-  - "/articles/proposed-amendment-to-github-terms-of-service-applicable-to-u-s-federal-government-users/"
+  - "/articles/amendment-to-litsignal-terms-of-service-applicable-to-government-users/"
+  - "/articles/proposed-amendment-to-litsignal-terms-of-service-applicable-to-u-s-federal-government-users/"
 ---
 
 Not applicable
 
 {{#tip}}
 
-This Amendment to Litsignal's [Terms of Service](/articles/github-terms-of-service) applies only to users that are using Litsignal on behalf of a United States federal government agency. If you are not using Litsignal on behalf of a U.S. federal government agency, the standard [Litsignal Terms of Service](/articles/github-terms-of-service) applies to you.
+This Amendment to Litsignal's [Terms of Service](/articles/litsignal-terms-of-service) applies only to users that are using Litsignal on behalf of a United States federal government agency. If you are not using Litsignal on behalf of a U.S. federal government agency, the standard [Litsignal Terms of Service](/articles/litsignal-terms-of-service) applies to you.
 
 {{/tip}}
 
-This Amendment is an agreement between Litsignal, Inc. ("Litsignal" or "Company") and U.S. federal government users of the Litsignal.com web site (the “Service”) and applies solely to any U.S. Government agency users who use or access the Service on behalf of a U.S. federal government agency (the "Agency").
+This Amendment is an agreement between Atanemi, LLC ("Litsignal" or "Company") and U.S. federal government users of the Litsignal.com web site (the “Service”) and applies solely to any U.S. Government agency users who use or access the Service on behalf of a U.S. federal government agency (the "Agency").
 
 You, as a United States government entity, are required, when entering into agreements with other parties, to follow applicable federal laws and regulations, including those related to ethics; privacy and security; accessibility; records retention; limitations on indemnification; fiscal law constraints; advertising and endorsements; freedom of information; and governing law and dispute resolution forum.
 
-Litsignal and You (together, the "Parties") agree that modifications to the [Litsignal Terms of Service](/articles/github-terms-of-service) (the "ToS") are appropriate to accommodate Your legal status, Your public (in contrast to private) mission, and other special circumstances. Accordingly, the ToS are hereby modified by this Amendment as they pertain to the Agency's use of the Company web site and services:
+Litsignal and You (together, the "Parties") agree that modifications to the [Litsignal Terms of Service](/articles/litsignal-terms-of-service) (the "ToS") are appropriate to accommodate Your legal status, Your public (in contrast to private) mission, and other special circumstances. Accordingly, the ToS are hereby modified by this Amendment as they pertain to the Agency's use of the Company web site and services:
 
 ### A. Public purpose
 
@@ -31,7 +31,7 @@ Litsignal and You (together, the "Parties") agree that modifications to the [Lit
 
 2. *No endorsement* - Company agrees that Your seals, trademarks, logos, service marks, trade names, and the fact that You have a presence on the Company site and use its services, shall not be used by Company in such a manner as to state or imply that Company's products or services are endorsed, sponsored or recommended by You or by any other element of the Federal Government, or are considered by these entities to be superior to any other products or services. Except for pages whose design and content is under the control of the Agency, or for links to or promotion of such pages, Company agrees not to display any Agency or government seals or logos on the Company's homepage or elsewhere on the Company Site, unless permission to do so has been granted by the Agency or by other relevant federal government authority. Company may list the Agency's name in a publicly available customer list so long as the name is not displayed in a more prominent fashion than that of any other third-party name.
 
-3. *Provision of data* - In case of termination of service, within 30 days of such termination, upon request, Company will provide you with all user-generated content that is publicly visible through the Sites You created at Company. Data will be provided in a commonly used file or database format as Company deems appropriate. Company will not provide data if doing so would violate its privacy policy, available at [https://help.github.com/privacy/](/privacy).
+3. *Provision of data* - In case of termination of service, within 30 days of such termination, upon request, Company will provide you with all user-generated content that is publicly visible through the Sites You created at Company. Data will be provided in a commonly used file or database format as Company deems appropriate. Company will not provide data if doing so would violate its privacy policy, available at [https://help.litsignal.com/privacy/](/privacy).
 
 ### C. Unpaid and paid plans
 

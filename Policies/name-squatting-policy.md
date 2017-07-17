@@ -5,4 +5,4 @@ Litsignal account names are provided on a first-come, first-served basis, and ar
 
 Attempts to sell, buy, or solicit other forms of payment in exchange for account names are prohibited and may result in permanent account suspension.
 
-If you believe someone's account is violating your trademark rights, you can find more information about making a trademark complaint on our [Trademark Policy](/articles/github-trademark-policy/) page.
+If you believe someone's account is violating your trademark rights, you can find more information about making a trademark complaint on our [Trademark Policy](/articles/litsignal-trademark-policy/) page.
