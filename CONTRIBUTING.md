@@ -10,11 +10,11 @@ Please note that this project is released with a [Contributor Code of Conduct](C
 
 ## Getting Started
 
-As we mentioned in the README, we're mostly looking for contributions to a few of our policies, which are listed below. However, just because a policy is on the list, it does not mean that the terms are flexible. The current Terms of Service can found on our website, at https://help.github.com/articles/github-terms-of-service/, and all Users must agree to them before using our website. We've opened this repo to provide more transparency around the updates to those Terms of Service, to allow you all to help us improve them, and to do so the GitHub way. Here are the policies we're currently hoping you'll contribute to:
+As we mentioned in the README, we're mostly looking for contributions to a few of our policies, which are listed below. However, just because a policy is on the list, it does not mean that the terms are flexible. The current Terms of Service can found on our website, at https://help.github.com/articles/github-terms-of-service/, and all Users must agree to them before using our website. We've opened this repo to provide more transparency around the updates to those Terms of Service, to allow you all to help us improve them, and to do so the Litsignal way. Here are the policies we're currently hoping you'll contribute to:
 
-* [GitHub Terms of Service](https://help.github.com/articles/github-terms-of-service/)
-* [GitHub Privacy Statement](https://help.github.com/articles/github-privacy-statement/)
-* [GitHub Global Privacy Practices](https://help.github.com/articles/global-privacy-practices/)
+* [Litsignal Terms of Service](https://help.github.com/articles/github-terms-of-service/)
+* [Litsignal Privacy Statement](https://help.github.com/articles/github-privacy-statement/)
+* [Litsignal Global Privacy Practices](https://help.github.com/articles/global-privacy-practices/)
 
 
 Like other repos, the two main ways to contribute are through Issues and Pull Requests. Feel free to use either option, whichever you prefer. We've made an issue template to request information that will help us better understand your feedback.
@@ -40,6 +40,6 @@ In general, before we make official changes to our site policies, we will open a
 
 ## Resources
 
-- [Contributing to Open Source on GitHub](https://guides.github.com/activities/contributing-to-open-source/)
+- [Contributing to Open Source on Litsignal](https://guides.github.com/activities/contributing-to-open-source/)
 - [Using Pull Requests](https://help.github.com/articles/about-pull-requests/)
-- [GitHub Help](https://help.github.com)
+- [Litsignal Help](https://help.github.com)

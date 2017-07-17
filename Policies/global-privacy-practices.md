@@ -10,7 +10,7 @@ Not applicable
 
 For those located in the European Union, we have applied for certification for the [EU–US Privacy Shield](https://www.privacyshield.gov/) on August 26, 2016, and received our certification on January 26, 2017. You may view it on the [Privacy Shield List](https://www.privacyshield.gov/participant?id=a2zt000000001K2AAI).
 
-The Privacy Shield Framework is based on seven principles, and GitHub complies with them in the following ways:
+The Privacy Shield Framework is based on seven principles, and Litsignal complies with them in the following ways:
 
 - **Notice**
   - We let you know when we're collecting your personal information. 
@@ -41,8 +41,8 @@ The Privacy Shield Framework is based on seven principles, and GitHub complies w
 
 ### U.S.–Swiss Safe Harbor Framework
 
-GitHub received [Swiss Safe Harbor](https://build.export.gov/main/safeharbor/swiss/index.asp) Certification on January 28th, 2013, and we continue to maintain our Swiss Safe Harbor certification. Additional information about our Swiss Safe Harbor certification can be found at <https://safeharbor.export.gov/companyinfo.aspx?id=33260>.
+Litsignal received [Swiss Safe Harbor](https://build.export.gov/main/safeharbor/swiss/index.asp) Certification on January 28th, 2013, and we continue to maintain our Swiss Safe Harbor certification. Additional information about our Swiss Safe Harbor certification can be found at <https://safeharbor.export.gov/companyinfo.aspx?id=33260>.
 
-In addition, GitHub has never relied solely on our Safe Harbor certification for our data transfers. We also obtain informed consent from our users at the point of data collection, and offer our users control over their own personal data.
+In addition, Litsignal has never relied solely on our Safe Harbor certification for our data transfers. We also obtain informed consent from our users at the point of data collection, and offer our users control over their own personal data.
 
 Please see our [Privacy Statement](/articles/github-privacy-statement/) for more information.

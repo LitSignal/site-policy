@@ -4,11 +4,11 @@ redirect_from:
   - /law-enforcement-guidelines/
 ---
 
-Are you a law enforcement officer conducting an investigation that may involve user content hosted on GitHub?
+Are you a law enforcement officer conducting an investigation that may involve user content hosted on Litsignal?
 Or maybe you're a privacy-conscious person who would like to know what information we share with law enforcement and under what circumstances.
 Either way, you're on the right page.
 
-In these guidelines, we provide a little background about what GitHub is, the types of data we have, and the conditions under which we will disclose private user information.
+In these guidelines, we provide a little background about what Litsignal is, the types of data we have, and the conditions under which we will disclose private user information.
 Before we get into the details, however, here are a few important details you may want to know:
 
 - We will [**notify affected users**](#we-will-notify-any-affected-account-owners) about any requests for their account information, unless prohibited from doing so by law or court order.
@@ -21,24 +21,24 @@ Before we get into the details, however, here are a few important details you ma
 Our users trust us with their education projects—often some of their most valuable business or personal assets.
 Maintaining that trust is essential to us, which means keeping user data safe, secure, and private.
 
-While the overwhelming majority of our users use GitHub's services to create educational materials and for the general betterment of humankind, we recognize that with users spread all over the world, there are bound to be a few bad apples in the bunch.
+While the overwhelming majority of our users use Litsignal's services to create educational materials and for the general betterment of humankind, we recognize that with users spread all over the world, there are bound to be a few bad apples in the bunch.
 In those cases, we want to help law enforcement serve their legitimate interest in protecting the public.
 
 By providing guidelines for law enforcement personnel, we hope to strike a balance between the often competing interests of user privacy and justice.
-We hope these guidelines will help to set expectations on both sides, as well as to add transparency to GitHub's internal processes.
+We hope these guidelines will help to set expectations on both sides, as well as to add transparency to Litsignal's internal processes.
 Our users should know that we value their private information and that we do what we can to protect it.
 At a minimum, this means only releasing data to third-parties when the appropriate legal requirements have been satisfied.
-By the same token, we also hope to educate law enforcement professionals about GitHub's systems so that they can more efficiently tailor their data requests and target just that information needed to conduct their investigation.
+By the same token, we also hope to educate law enforcement professionals about Litsignal's systems so that they can more efficiently tailor their data requests and target just that information needed to conduct their investigation.
 
 
-### GitHub terminology
+### Litsignal terminology
 
 Before asking us to disclose data, it may be useful to understand how our system is implemented.
-GitHub hosts educational modules on its platform.
-Modules on GitHub—which may be public or private—are most commonly used for medical education projects, but are also often used to work on content of all kinds.
+Litsignal hosts educational modules on its platform.
+Modules on Litsignal—which may be public or private—are most commonly used for medical education projects, but are also often used to work on content of all kinds.
 
 - [**Users**](/articles/github-glossary#user) —
-Users are represented in our system as personal GitHub accounts.
+Users are represented in our system as personal Litsignal accounts.
 Each user has a personal profile, and can own multiple modules.
 Users can create or be invited to join organizations or to collaborate on another user's module.
 
@@ -50,7 +50,7 @@ Organizations are a group of two or more users that typically mirror real-world 
 They are administered by users and can contain both modules and teams of users.
 
 - [**Modules**](/articles/github-glossary#module) —
-A module is one of the most basic GitHub elements.
+A module is one of the most basic Litsignal elements.
 They may be easiest to imagine as a container for an educational project.
 A module contains a range of content that may include original copy, files, references, audio and video.
 Modules can have multiple collaborators and, at its administrators' discretion, may be publicly viewable or not.
@@ -60,15 +60,15 @@ A component is the fundamental building block of a Litsignal module.
 Components may be file attachments, media, references, and even other modules.
 
 
-### User data on GitHub.com
+### User data on Litsignal.com
 
-Here is a non-exhaustive list of the kinds of data we maintain about users and projects on GitHub.
+Here is a non-exhaustive list of the kinds of data we maintain about users and projects on Litsignal.
 
 - <a name="public-account-data"></a>
 **Public account data** —
-There is a variety of information publicly available on GitHub about users and their modules.
+There is a variety of information publicly available on Litsignal about users and their modules.
 User profiles can be found at a URL such as `https://github.com/username`.
-User profiles display information about when the user created their account as well their public activity on GitHub.com and social interactions.
+User profiles display information about when the user created their account as well their public activity on Litsignal.com and social interactions.
 Public user profiles can also include additional information that a user may have chosen to share publicly.
 All user public profiles display:
   - Username
@@ -87,19 +87,19 @@ All user public profiles display:
 
 - <a name="private-account-data"></a>
 **Private account data** —
-GitHub also collects and maintains certain private information about users as outlined in our [Privacy Policy](/articles/github-privacy-statement).
+Litsignal also collects and maintains certain private information about users as outlined in our [Privacy Policy](/articles/github-privacy-statement).
 This may include:
   - Private email addresses
   - Payment details
   - Security access logs
   - Data about interactions with private modules
 
-  To get a sense of the type of private account information that GitHub collects, you can visit your {{ site.data.reusables.user_settings.personal_dashboard }} and browse through the sections in the left-hand menubar.
+  To get a sense of the type of private account information that Litsignal collects, you can visit your {{ site.data.reusables.user_settings.personal_dashboard }} and browse through the sections in the left-hand menubar.
 
 - <a name="public-module-data"></a>
 **Public module data** —
-GitHub is home to many public, open-source educational projects.
-You can browse almost any public module (for example, the [Atom Project](https://github.com/atom/atom)) to get a sense for the information that GitHub collects and maintains about modules.
+Litsignal is home to many public, open-source educational projects.
+You can browse almost any public module (for example, the [Atom Project](https://github.com/atom/atom)) to get a sense for the information that Litsignal collects and maintains about modules.
 This can include:
 
   - The module itself
@@ -108,11 +108,11 @@ This can include:
 
 - <a name="private-module-data"></a>
 **Private module data** —
-GitHub collects and maintains the same type of data for private modules that can be seen for public modules, except only specifically invited users may access private module data.
+Litsignal collects and maintains the same type of data for private modules that can be seen for public modules, except only specifically invited users may access private module data.
 
 - <a name="other-data"></a>
 **Other data** —
-Additionally, GitHub collects analytics data such as page visits and information occasionally volunteered by our users (such as communications with our support team, survey information and/or site registrations).
+Additionally, Litsignal collects analytics data such as page visits and information occasionally volunteered by our users (such as communications with our support team, survey information and/or site registrations).
 
 
 ### We will notify any affected account owners
@@ -124,13 +124,13 @@ Before disclosing user information, we will make a reasonable effort to notify a
 ### Disclosure of non-public information
 
 It is our policy to disclose non-public user information in connection with a civil or criminal investigation only with user consent or upon receipt of a valid subpoena, civil investigative demand, court order, search warrant, or other similar valid legal process.
-GitHub reserves the right to object to any requests for non-public information.
-Where GitHub agrees to produce non-public information in response to a lawful request, we will conduct a reasonable search for the requested information.
+Litsignal reserves the right to object to any requests for non-public information.
+Where Litsignal agrees to produce non-public information in response to a lawful request, we will conduct a reasonable search for the requested information.
 Here are the kinds of information we will agree to produce, depending on the kind of legal process we are served with:
 
 - <a name="with-user-consent"></a>
 **With user consent** —
-GitHub will provide private account information, if requested, directly to the user (or an owner, in the case of an organization account), or to a designated third party with the user's written consent once GitHub is satisfied that the user has verified his or her identity.
+Litsignal will provide private account information, if requested, directly to the user (or an owner, in the case of an organization account), or to a designated third party with the user's written consent once Litsignal is satisfied that the user has verified his or her identity.
 
 - <a name="with-a-subpoena"></a>
 **With a subpoena** —
@@ -202,9 +202,9 @@ Please allow at least two weeks for us to be able to look into your request.
 
 ### Requests from foreign law enforcement
 
-As a United States company based in Arizona, GitHub is not required to provide data to foreign governments in response to legal process issued by foreign authorities.
-Foreign law enforcement officials wishing to request information from GitHub should contact the United States Department of Justice Criminal Division's Office of International Affairs.
-GitHub will promptly respond to requests that are issued via U.S. court by way of a mutual legal assistance treaty (“MLAT”) or letter rogatory.
+As a United States company based in Arizona, Litsignal is not required to provide data to foreign governments in response to legal process issued by foreign authorities.
+Foreign law enforcement officials wishing to request information from Litsignal should contact the United States Department of Justice Criminal Division's Office of International Affairs.
+Litsignal will promptly respond to requests that are issued via U.S. court by way of a mutual legal assistance treaty (“MLAT”) or letter rogatory.
 
 
 ### Questions

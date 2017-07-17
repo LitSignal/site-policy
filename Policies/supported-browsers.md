@@ -24,4 +24,4 @@ We only support IE running in "Standards Mode." If you see an error message sayi
 
 ### Beta and developer builds
 
-You may occasionally encounter unexpected bugs in beta and developer builds of our supported browsers. If you encounter a bug on GitHub.com in one of these unreleased builds, please verify that it also exists in the stable version of the same browser. If the bug appears to only exist in the unstable version, you might consider reporting it to the browser developer.
+You may occasionally encounter unexpected bugs in beta and developer builds of our supported browsers. If you encounter a bug on Litsignal.com in one of these unreleased builds, please verify that it also exists in the stable version of the same browser. If the bug appears to only exist in the unstable version, you might consider reporting it to the browser developer.

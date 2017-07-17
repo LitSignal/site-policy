@@ -1,4 +1,4 @@
-## GitHub Site Policy 
+## Litsignal Site Policy 
 Because these policies and procedures should be open source, too.
 
 ### What can I do here?
@@ -11,7 +11,7 @@ Because we are providing these policies to our community, we believe it is only 
 
 #### Second, you can contribute to making our policies even better.
 
-We host collaborative development on GitHub's site policies, procedures, and guidelines here. That means you’re welcome to provide feedback via a pull request or by opening an issue. When opening an issue, please look over the [Contribution Guidelines](CONTRIBUTING.md). This will help us respond to your concern more quickly.
+We host collaborative development on Litsignal's site policies, procedures, and guidelines here. That means you’re welcome to provide feedback via a pull request or by opening an issue. When opening an issue, please look over the [Contribution Guidelines](CONTRIBUTING.md). This will help us respond to your concern more quickly.
 
 ### That seems like great power! What about the great responsibility?
 
@@ -23,13 +23,13 @@ That's easy: just be responsible. Follow our [Code of Conduct](CODE_OF_CONDUCT.m
 -	Please avoid hypotheticals. We can't give you legal advice, which means we often can't tell you if a hypothetical situation would or wouldn't be a violation of our policies. We also can't tell you what you should or shouldn't do. We can tell you how we interpret our policies.
 - Please don't give other users legal advice, to avoid confusion.
 
-### How often will GitHub review these policies?
+### How often will Litsignal review these policies?
 
-We have a semi-annual review and modification process for the policies in this repository. This allows plenty of time for discussion and lets our community rely on our policies. Of course, GitHub may alter our policies outside that schedule if necessary, such as when we have new product releases.
+We have a semi-annual review and modification process for the policies in this repository. This allows plenty of time for discussion and lets our community rely on our policies. Of course, Litsignal may alter our policies outside that schedule if necessary, such as when we have new product releases.
 
 #### What's the process? 
 
-Policies will be open for discussion and feedback throughout the year. You can expect that someone from GitHub's legal department will see your feedback, but we might not respond immediately. If you need an immediate answer on a legal matter, [contact Support](https://github.com/contact).
+Policies will be open for discussion and feedback throughout the year. You can expect that someone from Litsignal's legal department will see your feedback, but we might not respond immediately. If you need an immediate answer on a legal matter, [contact Support](https://github.com/contact).
 
 Every six months, we'll do thorough review of the feedback we have received. If changes are not needed, great! We'll let you know that we're not putting out an update, and we'll close any issues or PRs that are still hanging around. 
 
@@ -49,5 +49,5 @@ You're under no legal obligation to do so, but in the spirit of transparency and
 
 ## The official legal disclaimer part:
 
-- The information in this repository is for informational purposes only and is not intended to convey or constitute legal advice. It is not intended as a solicitation, and your use of this information does not create an attorney-client relationship between you and GitHub. GitHub is not a law firm. (You know that, though, right?)
+- The information in this repository is for informational purposes only and is not intended to convey or constitute legal advice. It is not intended as a solicitation, and your use of this information does not create an attorney-client relationship between you and Litsignal. Litsignal is not a law firm. (You know that, though, right?)
 - These policies and procedures may not suit your organization's needs. Please consult a lawyer if you want to adopt these policies for your own uses.
