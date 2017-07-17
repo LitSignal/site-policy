@@ -85,7 +85,7 @@ You agree that Litsignal and its licensors own all right, title and interest in 
 
 14. **Government Users**
 <br><br>
-If you are a Government entity, this Section applies to you.  Certain of our Confidential Information may be considered “Commercial Items”, as that term is defined at 48 C.F.R. §2.101, consisting of “Commercial Computer Software” and “Commercial Computer Software Documentation”, as such terms are used in 48 C.F.R. §12.212 or 48 C.F.R. §227.7202, as applicable. Consistent with 48 C.F.R. §12.212 or 48 C.F.R. §227.7202-1 through 227.7202-4, as applicable, the Commercial Computer Software and Commercial Computer Software Documentation are being licensed to U.S. Government end users (a) only as Commercial Items and (b) with only those rights as are granted to all other end users pursuant to the terms and conditions herein.  Atanemi, LLC 88 Colin P. Kelly Street, San Francisco, CA 94107.
+If you are a Government entity, this Section applies to you.  Certain of our Confidential Information may be considered “Commercial Items”, as that term is defined at 48 C.F.R. §2.101, consisting of “Commercial Computer Software” and “Commercial Computer Software Documentation”, as such terms are used in 48 C.F.R. §12.212 or 48 C.F.R. §227.7202, as applicable. Consistent with 48 C.F.R. §12.212 or 48 C.F.R. §227.7202-1 through 227.7202-4, as applicable, the Commercial Computer Software and Commercial Computer Software Documentation are being licensed to U.S. Government end users (a) only as Commercial Items and (b) with only those rights as are granted to all other end users pursuant to the terms and conditions herein.  Atanemi, LLC 3343 E Beryl Ln, Phoenix, AZ 85028.
 
 15. **Independent Development**
 <br><br>
@@ -105,7 +105,7 @@ You aren’t allowed to assign or transfer this Agreement, or any of your rights
 
 19. **Governing Law and Venue**
 <br><br>
-This Agreement will be interpreted and construed in accordance with the laws of the State of California, without regard to conflict of law principles. All disputes arising out of this Agreement will be subject to the exclusive jurisdiction of the state and federal courts located in San Francisco County, California, and each of us hereby consents to personal jurisdiction there.
+This Agreement will be interpreted and construed in accordance with the laws of the State of Arizona, without regard to conflict of law principles. All disputes arising out of this Agreement will be subject to the exclusive jurisdiction of the state and federal courts located in Maricopa County, Arizona, and each of us hereby consents to personal jurisdiction there.
 
 20. **Amendments; Waivers; No Third-Party Beneficiaries**
 <br><br>

@@ -70,7 +70,7 @@ You agree to indemnify us, defend us, and hold us harmless from and against any 
 
 ### J. Miscellanea
 
-1. **Governing Law.** You agree that these Marketplace Terms and your use of the Developer Products are governed under California law and any dispute related to the Developer Products must be brought in a tribunal of competent jurisdiction located in or near San Francisco, California.
+1. **Governing Law.** You agree that these Marketplace Terms and your use of the Developer Products are governed under Arizona law and any dispute related to the Developer Products must be brought in a tribunal of competent jurisdiction located in or near Phoenix, Arizona.
 
 2. **Non-Assignability.** Litsignal may assign or delegate these Marketplace Terms and/or the  [Litsignal's Privacy Statement](/articles/litsignal-privacy-statement/), in whole or in part, to any person or entity at any time with or without your consent. You may not assign or delegate any rights or obligations under the Marketplace Terms or Privacy Statement without our prior written consent, and any unauthorized assignment and delegation by you is void.
 

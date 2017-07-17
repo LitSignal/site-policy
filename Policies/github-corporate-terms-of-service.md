@@ -337,7 +337,7 @@ We reserve the right at any time and from time to time to modify or discontinue,
 ### R. Miscellaneous
 
 #### 1. Governing Law
-Except to the extent applicable law provides otherwise, this Agreement between you and Litsignal and any access to or use of the Website or the Service are governed by the federal laws of the United States of America and the laws of the State of California, without regard to conflict of law provisions. You and Litsignal agree to submit to the exclusive jurisdiction and venue of the courts located in the City and County of San Francisco, California.
+Except to the extent applicable law provides otherwise, this Agreement between you and Litsignal and any access to or use of the Website or the Service are governed by the federal laws of the United States of America and the laws of the State of Arizona, without regard to conflict of law provisions. You and Litsignal agree to submit to the exclusive jurisdiction and venue of the courts located in the Maricopa County and the City of Phoenix, Arizona.
 
 #### 2. Non-Assignability
 Litsignal may assign or delegate these Terms of Service and/or the [Litsignal Privacy Statement](https://litsignal.com/site/privacy), in whole or in part, to any person or entity at any time with or without your consent, including the license grant in Section D.4. Except in connection with a merger, acquisition, corporate reorganization, or sale of all or substantially all of your business or assets, subject to Notice to Litsignal, you may not assign or delegate any rights or obligations under the Terms of Service or Privacy Statement without our prior written consent, and any unauthorized assignment and delegation by you is void.

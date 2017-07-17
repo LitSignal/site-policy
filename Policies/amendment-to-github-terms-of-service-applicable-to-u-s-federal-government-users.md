@@ -13,7 +13,7 @@ This Amendment to Litsignal's [Terms of Service](/articles/litsignal-terms-of-se
 
 {{/tip}}
 
-This Amendment is an agreement between Atanemi, LLC ("Litsignal" or "Company") and U.S. federal government users of the Litsignal.com web site (the “Service”) and applies solely to any U.S. Government agency users who use or access the Service on behalf of a U.S. federal government agency (the "Agency").
+This Amendment is an agreement between  ("Litsignal" or "Company") and U.S. federal government users of the Litsignal.com web site (the “Service”) and applies solely to any U.S. Government agency users who use or access the Service on behalf of a U.S. federal government agency (the "Agency").
 
 You, as a United States government entity, are required, when entering into agreements with other parties, to follow applicable federal laws and regulations, including those related to ethics; privacy and security; accessibility; records retention; limitations on indemnification; fiscal law constraints; advertising and endorsements; freedom of information; and governing law and dispute resolution forum.
 
@@ -53,7 +53,7 @@ Litsignal and You (together, the "Parties") agree that modifications to the [Lit
 
 2. *Limitation of liability* - The Parties agree that nothing in the Limitation of Liability clause or elsewhere in the ToS in any way grants Company a waiver from, release of, or limitation of liability pertaining to, any past, current or future violation of federal law.
 
-3. *Governing law and Forum* - The dispute resolution provision in the ToS is hereby deleted. The ToS and this Amendment shall be governed, interpreted and enforced in accordance with applicable federal laws of the United States of America and exclusive jurisdiction shall be in the appropriate U.S. federal courts. To the extent permitted by federal law, the laws of the State of California will apply in the absence of federal law.
+3. *Governing law and Forum* - The dispute resolution provision in the ToS is hereby deleted. The ToS and this Amendment shall be governed, interpreted and enforced in accordance with applicable federal laws of the United States of America and exclusive jurisdiction shall be in the appropriate U.S. federal courts. To the extent permitted by federal law, the laws of the State of Arizona will apply in the absence of federal law.
 
 4. *Assignment* - Neither party may assign its obligations under this Amendment or ToS to any third-party without prior written consent of the other; however, Litsignal may, without the Agency's consent, assign its obligations to an Agency using the service under a free usage plan under this Amendment or ToS to an affiliate or to a successor or acquirer, as the case may be, in connection with a merger, acquisition, corporate reorganization or consolidation, or the sale of all or substantially all of Litsignal's assets.
 

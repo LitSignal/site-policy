@@ -261,11 +261,11 @@ The parties are independent contractors. This Agreement does not create a partne
 
 ### 15. NOTICE
 
-All notices to be provided by Litsignal to Developer under this Agreement may be delivered in writing (i) by nationally recognized overnight delivery service (“Courier”) or U.S. mail to the contact mailing address provided by Developer to Litsignal; or (ii) electronic mail to the electronic mail address provided by Developer. Developer must give notice to Litsignal in writing by Courier or U.S. Mail to the following address: Atanemi, LLC, Attn: Legal Department, 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107 USA. All notices shall be deemed to have been given immediately upon delivery by electronic mail, or if otherwise delivered upon receipt or, if earlier, two (2) business days after being deposited in the mail or with a Courier as permitted above.
+All notices to be provided by Litsignal to Developer under this Agreement may be delivered in writing (i) by nationally recognized overnight delivery service (“Courier”) or U.S. mail to the contact mailing address provided by Developer to Litsignal; or (ii) electronic mail to the electronic mail address provided by Developer. Developer must give notice to Litsignal in writing by Courier or U.S. Mail to the following address: Atanemi, LLC, Attn: Legal Department, 3343 E Beryl Ln, Phoenix, AZ 85028. All notices shall be deemed to have been given immediately upon delivery by electronic mail, or if otherwise delivered upon receipt or, if earlier, two (2) business days after being deposited in the mail or with a Courier as permitted above.
 
 ### 16. GOVERNING LAW
 
-This Agreement shall be governed by the laws of the State of California without regard to conflict of law principles. Developer hereby expressly agrees to submit to the exclusive personal jurisdiction of the federal and state courts of the State of California, San Francisco County, for the purpose of resolving any dispute relating to this Agreement.  Notwithstanding the foregoing, Litsignal shall be entitled to seek injunctive remedies or other types of urgent legal relief in any jurisdiction.
+This Agreement shall be governed by the laws of the State of Arizona without regard to conflict of law principles. Developer hereby expressly agrees to submit to the exclusive personal jurisdiction of the federal and state courts of the State of Arizona, Maricopa County, for the purpose of resolving any dispute relating to this Agreement.  Notwithstanding the foregoing, Litsignal shall be entitled to seek injunctive remedies or other types of urgent legal relief in any jurisdiction.
 
 ### 17. EXPORT RESTRICTIONS
 

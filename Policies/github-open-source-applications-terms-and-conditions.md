@@ -50,7 +50,7 @@ Litsignal reserves the right at any time and from time to time to modify or disc
 
 2. Entire Agreement. These Application Terms, together with any applicable Privacy Notices, constitutes the entire agreement between you and Litsignal and governs your use of the Software, superseding any prior agreements between you and Litsignal (including, but not limited to, any prior versions of the Application Terms).
 
-3. Governing Law. You agree that these Application Terms and your use of the Software are governed under California law and any dispute related to the Software must be brought in a tribunal of competent jurisdiction located in or near San Francisco, California.
+3. Governing Law. You agree that these Application Terms and your use of the Software are governed under Arizona law and any dispute related to the Software must be brought in a tribunal of competent jurisdiction located in or near Phoenix, Arizona.
 
 4. Third-Party Packages. The Software supports third-party "Packages" which may modify, add, remove, or alter the functionality of the Software.  These Packages are not covered by these Application Terms and may include their own license which governs your use of that particular package.
 
