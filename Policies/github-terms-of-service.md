@@ -1,17 +1,10 @@
----
-title: Litsignal Terms of Service
-redirect_from:
-  - /tos/
-  - /terms/
-  - /terms-of-service/
-  - /litsignal-terms-of-service-draft/
----
+> Thank you for using Litsignal! We're happy you're here.
 
-Thank you for using Litsignal! We're happy you're here. Please read this Terms of Service agreement carefully before accessing or using Litsignal. Because it is such an important contract between us and our users, we have tried to make it as clear as possible. For your convenience, we have presented these terms in a short non-binding summary followed by the full legal terms.
+Please read this Terms of Service agreement carefully before accessing or using Litsignal. Because it is such an important contract between us and our users, we have tried to make it as clear as possible. For your convenience, we have presented these terms in a short non-binding summary followed by the full legal terms.
 
 ### Summary
 
-| Section | What can you find there? |
+| Section | What can you find there?
 | --- | --- |
 | [A. Definitions](#a-definitions) | Some basic terms, defined in a way that will help you understand this agreement. Refer back up to this section for clarification. |
 | [B. Account Terms](#b-account-terms) | These are the basic requirements of having an account on Litsignal.  |
