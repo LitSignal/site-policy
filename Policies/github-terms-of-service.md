@@ -18,19 +18,16 @@ Thank you for using Litsignal! We're happy you're here. Please read this Terms o
 | [C. Acceptable Use](#c-acceptable-use)| These are the basic rules you must follow when using your Litsignal account. |
 | [D. User-Generated Content](#d-user-generated-content) | You own the content you post on Litsignal. However, you have some responsibilities regarding it, and we ask you to grant us some rights so we can provide services to you. |
 | [E. Copyright & DMCA Policy](#e-copyright-infringement-and-dmca-policy) | This section talks about how Litsignal will respond if you believe someone is infringing your copyrights on Litsignal. |
-| [F. Intellectual Property Notice](#f-intellectual-property-notice) | This describes Litsignal's rights in the website and service. |
-| [G. API Terms](#g-api-terms) | These are the rules for using Litsignal's APIs, whether you are using the API for development or data collection. |
-| [H. Additional Terms for Litsignal Pages](#h-additional-terms-for-litsignal-pages) | We have a few specific rules for content hosted using Litsignal Pages. |
-| [I. Additional Terms for Litsignal Marketplace](#i-additional-terms-for-litsignal-marketplace) | We have another set of terms for Litsignal Marketplace. |
-| [J. Advertising on Litsignal](#j-advertising-on-litsignal) | If you want to promote your content on Litsignal, this section lays out some rules you must follow. |
-| [K. Payment](#k-payment) | You are responsible for payment. We are responsible for billing you accurately. |
-| [L. Cancellation and Termination](#l-cancellation-and-termination) | You may cancel this agreement and close your account at any time. |
-| [M. Communications with Litsignal](#m-communications-with-litsignal) | We only use email and other electronic means to stay in touch with our users. We do not provide phone support. |
-| [N. Disclaimer of Warranties](#n-disclaimer-of-warranties) | We provide our service as is, and we make no promises or guarantees about this service. **Please read this section carefully; you should understand what to expect.** |
-| [O. Limitation of Liability](#o-limitation-of-liability) | We will not be liable for damages or losses arising from your use or inability to use the service or otherwise arising under this agreement. **Please read this section carefully; it limits our obligations to you.** |
-| [P. Release and Indemnification](#p-release-and-indemnification) | You are fully responsible for your use of the service. |
-| [Q. Changes to these Terms of Service](#q-changes-to-these-terms) | We may modify this agreement, but we will give you 30 days' notice of changes that affect your rights. |
-| [R. Miscellaneous](#r-miscellaneous) | Please see this section for legal details including our choice of law. |
+| [F. Intellectual Property Notice](#f-intellectual-property-notice) | This describes Litsignal's rights in the website and service. | 
+| [G. Advertising on Litsignal](#g-advertising-on-litsignal) | If you want to promote your content on Litsignal, this section lays out some rules you must follow. |
+| [H. Payment](#h-payment) | You are responsible for payment. We are responsible for billing you accurately. |
+| [I. Cancellation and Termination](#i-cancellation-and-termination) | You may cancel this agreement and close your account at any time. |
+| [J. Communications with Litsignal](#j-communications-with-litsignal) | We only use email and other electronic means to stay in touch with our users. We do not provide phone support. |
+| [K. Disclaimer of Warranties](#k-disclaimer-of-warranties) | We provide our service as is, and we make no promises or guarantees about this service. **Please read this section carefully; you should understand what to expect.** |
+| [L. Limitation of Liability](#l-limitation-of-liability) | We will not be liable for damages or losses arising from your use or inability to use the service or otherwise arising under this agreement. **Please read this section carefully; it limits our obligations to you.** |
+| [M. Release and Indemnification](#m-release-and-indemnification) | You are fully responsible for your use of the service. |
+| [N. Changes to these Terms of Service](#n-changes-to-these-terms) | We may modify this agreement, but we will give you 30 days' notice of changes that affect your rights. |
+| [O. Miscellaneous](#o-miscellaneous) | Please see this section for legal details including our choice of law. |
 
 ### The Litsignal Terms of Service
 Effective date: May 22, 2017
@@ -144,7 +141,9 @@ This license does not grant Litsignal the right to sell your Content or otherwis
 #### 5. License Grant to Other Users
 Any Content you post publicly, including issues, comments, and contributions to other Users' modules, may be viewed by others. By setting your modules to be viewed publicly, you agree to allow others to view and duplicate your modules.
 
-If you set your modules to be viewed publicly, you grant each User of Litsignal a nonexclusive, worldwide license to access your Content through the Litsignal Service, and to use, display and perform your Content, and to reproduce your Content solely on Litsignal as permitted through Litsignal's functionality. You may grant further rights if you [adopt a license](/articles/adding-a-license-to-a-module/#including-an-open-source-license-in-your-module).
+If you set your modules to be viewed publicly, you grant each User of Litsignal a nonexclusive, worldwide license to access your Content through the Litsignal Service, and to use, display and perform your Content, and to reproduce your Content solely on Litsignal as permitted through Litsignal's functionality. In addition, by publishing a module on Litsignal, you agree to license it under a [Creative Commons 0](https://creativecommons.org/publicdomain/zero/1.0/) license, meaning that anyone can then use your work in any way for any purpose and that you relinquish all legal claims of ownership under copyright law.
+
+Private and premium modules under paid accounts may be licensed under more restrictive terms.
 
 #### 6. Contributions Under Module License
 Whenever you make a contribution to a module containing notice of a license, you license your contribution under the same terms, and you agree that you have the right to license your contribution under those terms. If you have a separate agreement to license your contributions under different terms, such as a contributor license agreement, that agreement will supercede.
